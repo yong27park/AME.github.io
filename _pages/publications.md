@@ -13,15 +13,15 @@ author_profile: true
   [[PDF]](https://link-to-pdf) [[IEEE Xplore]](https://doi-link)
 
 **A Real-Time Depth of Anesthesia Monitoring System Based on Deep Neural Network With Large EDO Tolerant EEG Analog Front-End**  
-  <u>Yongjae Park</u>, Su-Hyun Han, Wooseok Byun, Ji-Hoon Kim, Hyung-Chul Lee and Seong-Jin Kim 
+  <u>Yongjae Park</u>, Su-Hyun Han, Wooseok Byun, Ji-Hoon Kim, Hyung-Chul Lee, and Seong-Jin Kim 
   *IEEE Transactions on Biomedical Circuits and Systems*, 2020.  
-  [[IEEE Xplore]](https://[10.1109/TBCAS.2020.2998172 (https://ieeexplore.ieee.org/abstract/document/9103093))
+  [[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/9103093)
 
 ---
 
 ## Conference Proceedings
 
-* **Paper Title 3**  
-  <u>Yongjae Park</u> and Author Two  
-  *IEEE International Solid-State Circuits Conference (ISSCC)*, 2026.  
-  [[PDF]](https://link-to-pdf) [[Slides]](https://link-to-slides)
+**A 3.8-μW/Ch, 15-GΩ Total Input Impedance Chopper Stabilized Amplifier with Dual Positive Feedback Loops and Auto-calibration Scheme**  
+  <u>Yongjae Park</u>, Ji-Hyoung Cha, Su-Hyun Han, Jee-Ho Park, and Seong-Jin Kim  
+  *IEEE Symposium on VLSI Circuits*, 2021. (One of the top 3 conferences on Circuit and Systems)  
+  [[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/9492508)
