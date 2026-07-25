@@ -7,7 +7,7 @@ author_profile: true
 
 ## Journal Papers
 ---
-**A 4.6 μW, 133-VPP Common-Mode Interference-Tolerant Biopotential Amplifier for Two-Electrode Recording System in 110-nm CMOS 1**  
+1. **A 4.6 μW, 133-VPP Common-Mode Interference-Tolerant Biopotential Amplifier for Two-Electrode Recording System in 110-nm CMOS 1**  
   <u>Yongjae Park</u>, Yeong-Jin Mo, Jeong-Hoon Kim, Gert Cauwenberghs, and Seong-Jin Kim<br>
   *IEEE Journal of Solid-State Circuits (JSSC)*, 2025. (One of the top Journals on Circuits and Systems)  
   [[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/11185355)
