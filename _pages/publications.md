@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Journal Papers
---
+
 
 **An Indirect Time-of-Flight Sensor With Tetra-Pixel Architecture Calibrating Tap Mismatch in a Single Frame**  
   Jubin Kang, <u>Yongjae Park</u>, Jung-Hye Hwang, Kieop Hong, Insang Son, Jung-Hoon Chun, Jaehyuk Choi, and Seong-Jin Kim<br>
@@ -26,9 +26,8 @@ author_profile: true
   *IEEE Transactions on Biomedical Circuits and Systems (TBioCAS)*, 2020. [[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/9103093)
 
 --
-
 ## Conference Proceedings
---
+
 **A 0.0308mm2 4.15pJ/conv VCO-Based Current Sensing Front-End with 2nd-Order Δ2 ΔΣ Modulation**  
   Jee-Ho Park, Ji-Hyoung Cha, <u>Yongjae Park</u>, and Seong-Jin Kim<br>
   *IEEE Asian Solid-State Circuits Conference (A-SSCC)*, 2022. [[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/9980823)
