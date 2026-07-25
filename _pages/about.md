@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Atelier of Microelectronics (AME) Lab"
+title: "Atelier of Microelectronics (AME)"
 author_profile: true
 redirect_from: 
   - /about/
