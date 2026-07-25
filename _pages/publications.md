@@ -20,6 +20,10 @@ author_profile: true
 
 ## Conference Proceedings
 
+**A Reconfigurable Sub-Array Multiplexing Microelectrode Array System With 24,320 Electrodes and 380 Readout Channels for Investigating Neural Communication**  
+  Ji-Hyoung Cha, Jee-Ho Park, <u>Yongjae Park</u>, Hyogeun Shin, Kyeong Seob Hwang, II-Joo Cho, and Seong-Jin Kim<br> 
+  *IEEE International Solid-State Circuits Conference (ISSCC)*, 2022. (Top conferences on Circuits and Systems) [[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/9731590)
+
 **A 3.8-μW/Ch, 15-GΩ Total Input Impedance Chopper Stabilized Amplifier with Dual Positive Feedback Loops and Auto-calibration Scheme**  
   <u>Yongjae Park</u>, Ji-Hyoung Cha, Su-Hyun Han, Jee-Ho Park, and Seong-Jin Kim  
-  *IEEE Symposium on VLSI Circuits*, 2021. (One of the top 3 conferences on Circuits and Systems) [[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/9492508)
+  *IEEE Symposium on VLSI Circuits (SOVC)*, 2021. (One of the top 3 conferences on Circuits and Systems) [[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/9492508)
