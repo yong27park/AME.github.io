@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Journal Papers
-
+--
 **An Indirect Time-of-Flight Sensor With Tetra-Pixel Architecture Calibrating Tap Mismatch in a Single Frame**  
   Jubin Kang, <u>Yongjae Park</u>, Jung-Hye Hwang, Kieop Hong, Insang Son, Jung-Hoon Chun, Jaehyuk Choi, and Seong-Jin Kim<br>
   *IEEE Solid-State Circuits Letters*, 2022. [[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/9966876)
@@ -27,7 +27,7 @@ author_profile: true
 ---
 
 ## Conference Proceedings
-
+--
 **A 0.0308mm2 4.15pJ/conv VCO-Based Current Sensing Front-End with 2nd-Order Δ2 ΔΣ Modulation**  
   Jee-Ho Park, Ji-Hyoung Cha, <u>Yongjae Park</u>, and Seong-Jin Kim<br>
   *IEEE Asian Solid-State Circuits Conference (A-SSCC)*, 2022. [[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/9980823)
@@ -47,3 +47,6 @@ author_profile: true
 **A 3.8-μW/Ch, 15-GΩ Total Input Impedance Chopper Stabilized Amplifier with Dual Positive Feedback Loops and Auto-calibration Scheme**  
   <u>Yongjae Park</u>, Ji-Hyoung Cha, Su-Hyun Han, Jee-Ho Park, and Seong-Jin Kim  
   *IEEE Symposium on VLSI Technology and Circuits (SOVC)*, 2021. (One of the top 3 conferences on Circuits and Systems) [[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/9492508)
+
+## Patents
+--
