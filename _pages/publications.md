@@ -7,12 +7,12 @@ author_profile: true
 
 ## Journal Papers
 ---
-1. **A 4.6 μW, 133-VPP Common-Mode Interference-Tolerant Biopotential Amplifier for Two-Electrode Recording System in 110-nm CMOS 1**  
+1. **A 4.6 μW, 133-VPP Common-Mode Interference-Tolerant Biopotential Amplifier for Two-Electrode Recording System in 110-nm CMOS**  
   <u>Yongjae Park</u>, Yeong-Jin Mo, Jeong-Hoon Kim, Gert Cauwenberghs, and Seong-Jin Kim<br>
   *IEEE Journal of Solid-State Circuits (JSSC)*, 2025. (One of the top Journals on Circuits and Systems)  
   [[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/11185355)
 
-1. **An Adaptive Multiple Sampling With Slope Calibration Scheme in Indirect Time-of-Flight Sensor for Depth Precision Enhancement 1**  
+1. **An Adaptive Multiple Sampling With Slope Calibration Scheme in Indirect Time-of-Flight Sensor for Depth Precision Enhancement**  
   Jung-Hye Hwang, Jubin Kang, <u>Yongjae Park</u>, Insang Son, Kieop Hong, and Seong-Jin Kim<br>
   *IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I)*, 2025.  
   [[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/11083975)
