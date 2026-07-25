@@ -25,7 +25,7 @@ author_profile: true
   <u>Yongjae Park</u>, Su-Hyun Han, Wooseok Byun, Ji-Hoon Kim, Hyung-Chul Lee, and Seong-Jin Kim<br>
   *IEEE Transactions on Biomedical Circuits and Systems (TBioCAS)*, 2020. [[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/9103093)
 
---
+
 ## Conference Proceedings
 
 **A 0.0308mm2 4.15pJ/conv VCO-Based Current Sensing Front-End with 2nd-Order Δ2 ΔΣ Modulation**  
@@ -49,4 +49,4 @@ author_profile: true
   *IEEE Symposium on VLSI Technology and Circuits (SOVC)*, 2021. (One of the top 3 conferences on Circuits and Systems) [[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/9492508)
 
 ## Patents
---
+
