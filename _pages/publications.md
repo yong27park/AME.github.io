@@ -14,8 +14,7 @@ author_profile: true
 
 1. **An Adaptive Multiple Sampling With Slope Calibration Scheme in Indirect Time-of-Flight Sensor for Depth Precision Enhancement**  
   Jung-Hye Hwang, Jubin Kang, <u>Yongjae Park</u>, Insang Son, Kieop Hong, and Seong-Jin Kim<br>
-  *IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I)*, 2025.<br>  
-  [[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/11083975)
+  *IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I)*, 2025.<br> [[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/11083975)
 
 1. **An Indirect ToF Sensor With In-Pixel Adaptive ΔΣ-Scheme for Background Light Rejection and Floating Diffusion Mismatch Cancellation**  
   <u>Yongjae Park</u>, Jubin Kang, Dahwan Park, Jung-Hye Hwang, Seonghyeok Park, Insang Son, and Seong-Jin Kim<br>
@@ -34,12 +33,12 @@ author_profile: true
 
 1. **A VCO-Based 2nd-Order Δ2–ΔΣ Modulator for Small-Size High Energy-Efficient Current Sensing Front-End**  
   Jee-Ho Park, Ji-Hyoung Cha, <u>Yongjae Park</u>, and Seong-Jin Kim<br>
-  *IEEE Solid-State Circuits Letters*, 2023.<br>
+  *IEEE Solid-State Circuits Letters (SSC-L)*, 2023.<br>
 [[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/10092800)
 
 1. **An Indirect Time-of-Flight Sensor With Tetra-Pixel Architecture Calibrating Tap Mismatch in a Single Frame**  
   Jubin Kang, <u>Yongjae Park</u>, Jung-Hye Hwang, Kieop Hong, Insang Son, Jung-Hoon Chun, Jaehyuk Choi, and Seong-Jin Kim<br>
-  *IEEE Solid-State Circuits Letters*, 2022.<br>
+  *IEEE Solid-State Circuits Letters (SSC-L)*, 2022.<br>
    [[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/9966876)
 
 1. **A Real-Time Depth of Anesthesia Monitoring System Based on Deep Neural Network With Large EDO Tolerant EEG Analog Front-End**  
