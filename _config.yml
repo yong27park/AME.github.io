@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Yongjae_Park.jpg"
+  avatar           : "files/Yongjae_Park.jpg"
   name             : "Yongjae Park"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor"
