@@ -22,4 +22,4 @@ author_profile: true
 
 **A 3.8-μW/Ch, 15-GΩ Total Input Impedance Chopper Stabilized Amplifier with Dual Positive Feedback Loops and Auto-calibration Scheme**  
   <u>Yongjae Park</u>, Ji-Hyoung Cha, Su-Hyun Han, Jee-Ho Park, and Seong-Jin Kim  
-  *IEEE Symposium on VLSI Circuits*, 2021. (One of the top 3 conferences on Circuit and Systems) [[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/9492508)
+  *IEEE Symposium on VLSI Circuits*, 2021. (One of the top 3 conferences on Circuits and Systems) [[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/9492508)
