@@ -7,6 +7,10 @@ author_profile: true
 
 ## Journal Papers
 
+**An Indirect Time-of-Flight Sensor With Tetra-Pixel Architecture Calibrating Tap Mismatch in a Single Frame**  
+  Jubin Kang, <u>Yongjae Park</u>, Jung-Hye Hwang, Kieop Hong, Insang Son, Jung-Hoon Chun, Jaehyuk Choi, and Seong-Jin Kim<br>
+  *IEEE Solid-State Circuits Letters*, 2022. [[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/9966876)
+
 **A Real-Time Depth of Anesthesia Monitoring System Based on Deep Neural Network With Large EDO Tolerant EEG Analog Front-End**  
   Ji-Hyoung Cha, Jee-Ho Park, <u>Yongjae Park</u>, Hyogeun Shin, Kyeong Seob Hwang, II-Joo Cho, and Seong-Jin Kim<br>
   *IEEE Transactions on Biomedical Circuits and Systems (TBioCAS)*, 2022. [[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/9907819)
@@ -23,6 +27,10 @@ author_profile: true
 ---
 
 ## Conference Proceedings
+
+**A 0.0308mm2 4.15pJ/conv VCO-Based Current Sensing Front-End with 2nd-Order Δ2 ΔΣ Modulation**  
+  Jee-Ho Park, Ji-Hyoung Cha, <u>Yongjae Park</u>, and Seong-Jin Kim<br>
+  *IEEE Asian Solid-State Circuits Conference (A-SSCC)*, 2022. [[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/9980823)
 
 **A 100×80 CMOS Flash LiDAR Sensor with 0.0011mm2 In-Pixel Histogramming TDC Based on Analog Counter and Self-Calibrated Single-Slope ADC**  
   Su-Hyun Han, Bumjun Kim, Seonghyeok Park, <u>Yongjae Park</u>, Jung-Hoon Chun, Jaehyuk Choi, Seong-Jin Kim<br>
