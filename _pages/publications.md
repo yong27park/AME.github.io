@@ -13,7 +13,7 @@ author_profile: true
   [[PDF]](https://link-to-pdf) [[IEEE Xplore]](https://doi-link)
 
 **A Real-Time Depth of Anesthesia Monitoring System Based on Deep Neural Network With Large EDO Tolerant EEG Analog Front-End**  
-  <u>Yongjae Park</u>, Su-Hyun Han, Wooseok Byun, Ji-Hoon Kim, Hyung-Chul Lee, and Seong-Jin Kim
+  <u>Yongjae Park</u>, Su-Hyun Han, Wooseok Byun, Ji-Hoon Kim, Hyung-Chul Lee, and Seong-Jin Kim<br>
   *IEEE Transactions on Biomedical Circuits and Systems*, 2020. [[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/9103093)
 
 ---
