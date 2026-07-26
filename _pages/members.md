@@ -51,7 +51,7 @@ author_profile: true
 <div id="professor" class="tab-content active">
   <div class="member-card">
     <img src="/images/professor.jpg" width="160" height="160" align="left" alt="Professor">
-    <h2>Yongjae Park (김철수)</h2>
+    <h2>Yongjae Park</h2>
     <p><strong>Assistant Professor</strong><br>
     Department of Semiconductor Systems Engineering<br>
     Atelier of Microelectronics (AME)<br><br>
