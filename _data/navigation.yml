@@ -12,12 +12,13 @@ main:
   - title: "Our Interests"
     url: /ourinterests/
     
+main:
   - title: "Members"
     children:
       - title: "Professor"
         url: /members/professor/
       - title: "Family"
-        url: /members/family/   
+        url: /members/family/  
 
   - title: "Publications"
     url: /publications/    
