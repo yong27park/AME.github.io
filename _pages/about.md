@@ -1,15 +1,14 @@
 ---
 permalink: /
-title: "Atelier of Microelectronics (AME)"
+title: "About Us - Atelier of Microelectronics (AME)"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-About Us
-======
-Historically, from the Renaissance through the 19th century, the 'Atelier' was a pure place where master craftsmanship met youthful innovation to redefine art and technology. Inspired by this legacy, the Atelier of Microelectronics (AME) pusues to be dedicated to advancing Analog and Mixed-Signal IC design. Through hands-on experimentation, rigorous circuit synthesis, and collaborative learning, we aim to forge next-generation microelectronic solutions. 
+---
+ Historically, from the Renaissance through the 19th century, the 'Atelier' was a pure place where master craftsmanship met youthful innovation to redefine art and technology. Inspired by this legacy, the Atelier of Microelectronics (AME) pusues to be dedicated to advancing Analog and Mixed-Signal IC design. Through hands-on experimentation, rigorous circuit synthesis, and collaborative learning, we aim to forge next-generation microelectronic solutions. 
 
 A data-driven personal website
 ======
