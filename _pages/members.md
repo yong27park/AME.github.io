@@ -61,8 +61,6 @@ author_profile: true
   </div>
   <br clear="all">
 
-  <hr>
-
   <h3>Education</h3>
   <ul>
     <li><strong>Ph.D.</strong> in Electrical Engineering, Ulsan National Institute of Science and Technology (UNIST), 2024</li>
@@ -72,9 +70,14 @@ author_profile: true
 
 <h3>Experiences</h3>
   <ul>
-    <li>Staff Engineer, IP Development Team, Samsung Electronics, Korea, 2024 - 2026</li>
-    <li><strong>Visiting Researcher</strong>, <strong>University of California San Diego (UCSD)</strong>, CA, USA, 2022 - 2023<br>
-      &nbsp;&nbsp;– SoC design for neural recording and stimulation
+    <li><strong>IP Development Team, Samsung Electronics, Hwaseong, Korea, 2024 - 2026</strong><br>
+      <li>Staff Engineer</li>
+      &nbsp;&nbsp;– Electrical IC (EIC) Design for Silicon-Photonics
+      &nbsp;&nbsp;– Custom Die to Die (D2D) Interface Design
+    </li>
+    <li><strong>University of California San Diego (UCSD), CA, United States, 2022 - 2023</strong><br>
+      <li>Visiting Researcher</li>
+      &nbsp;&nbsp;– Neural Recording and Stimulation SoC Design
     </li>
   </ul>
 
