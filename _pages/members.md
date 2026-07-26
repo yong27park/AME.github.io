@@ -70,11 +70,14 @@ author_profile: true
     <li><strong>B.S.</strong> in Electrical Engineering, Ulsan National Institute of Science and Technology (UNIST), 2018</li>
   </ul>
 
-  <h3>Experiences</h3>
+<h3>Experiences</h3>
   <ul>
-    <li>Staff Engineer, IP Development Team, Samsung Electronics, Korea, 2024 - 2026 </li>
-    <li>Visiting Researcher, University of California San Diego, CA, USA, 2022 - 2023</li>
+    <li>Staff Engineer, IP Development Team, Samsung Electronics, Korea, 2024 - 2026</li>
+    <li><strong>Visiting Researcher</strong>, <strong>University of California San Diego (UCSD)</strong>, CA, USA, 2022 - 2023<br>
+      &nbsp;&nbsp;– SoC design for neural recording and stimulation
+    </li>
   </ul>
+
 </div>
 
 <!-- ================= 2. FAMILY TAB ================= -->
