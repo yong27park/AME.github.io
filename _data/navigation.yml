@@ -13,7 +13,11 @@ main:
     url: /ourinterests/
     
   - title: "Members"
-    url: /members/   
+    children:
+      - title: "Professor"
+        url: /members/professor/
+      - title: "Family"
+        url: /members/family/   
 
   - title: "Publications"
     url: /publications/    
