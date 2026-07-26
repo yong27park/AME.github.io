@@ -65,12 +65,12 @@ author_profile: true
 
   <h3>Education</h3>
   <ul>
-    <li><strong>Ph.D.</strong> in Electrical Engineering, KAIST, 2018</li>
-    <li><strong>M.S.</strong> in Electrical Engineering, KAIST, 2014</li>
-    <li><strong>B.S.</strong> in Electrical Engineering, Seoul National University, 2012</li>
+    <li><strong>Ph.D.</strong> in Electrical Engineering, Ulsan National Institute of Science and Technology (UNIST), 2024</li>
+    <!-- <li><strong>M.S.</strong> in Electrical Engineering, KAIST, 2014</li> -->
+    <li><strong>B.S.</strong> in Electrical Engineering, Ulsan National Institute of Science and Technology (UNIST), 2018</li>
   </ul>
 
-  <h3>Research Interests</h3>
+  <h3>Experiences</h3>
   <ul>
     <li>Analog & Mixed-Signal Integrated Circuit Design</li>
     <li>Power Management ICs (PMIC)</li>
