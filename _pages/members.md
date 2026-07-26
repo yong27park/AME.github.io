@@ -51,9 +51,9 @@ author_profile: true
 <div id="professor" class="tab-content active">
   <div class="member-card">
     <img src="/images/professor.jpg" width="160" height="160" align="left" alt="Professor">
-    <h2>Chul-Soo Kim (김철수)</h2>
-    <p><strong>Associate Professor</strong><br>
-    Department of Electrical Engineering<br>
+    <h2>Yongjae Park (김철수)</h2>
+    <p><strong>Assistant Professor</strong><br>
+    Department of Semiconductor Systems Engineering<br>
     Atelier of Microelectronics (AME)<br><br>
     <strong>Office:</strong> Engineering Building 2, Room 304<br>
     <strong>Tel:</strong> +82-2-1234-5678<br>
