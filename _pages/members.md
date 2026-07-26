@@ -69,7 +69,7 @@ author_profile: true
 <h3>Experiences</h3>
   <ul>
     <li><strong>Staff Engineer @ IP Development Team, Samsung Electronics, Korea, 2024 - 2026</strong><br>
-      &nbsp;&nbsp;– Electrical IC (EIC) Design for Silicon-Photonics
+      &nbsp;&nbsp;– Electrical IC (EIC) Design for Silicon-Photonics<br>
       &nbsp;&nbsp;– Custom Die to Die (D2D) Interface Design
     </li>
     <li><strong>Visiting Researcher @ University of California San Diego (UCSD), United States, 2022 - 2023</strong><br>
