@@ -58,8 +58,6 @@ author_profile: true
     <strong>Office:</strong> TBD<br>
     <strong>Email:</strong> yong27.park@inha.ac.kr<br>
     <a href="https://scholar.google.com">[Google Scholar]</a></p>
-  </div>
-  <br clear="all">
 
   <h3>Education</h3>
   <ul>
@@ -70,13 +68,11 @@ author_profile: true
 
 <h3>Experiences</h3>
   <ul>
-    <li><strong>IP Development Team, Samsung Electronics, Hwaseong, Korea, 2024 - 2026</strong><br>
-      <li>Staff Engineer</li>
+    <li><strong>Staff Engineer @ IP Development Team, Samsung Electronics, Korea, 2024 - 2026</strong><br>
       &nbsp;&nbsp;– Electrical IC (EIC) Design for Silicon-Photonics
       &nbsp;&nbsp;– Custom Die to Die (D2D) Interface Design
     </li>
-    <li><strong>University of California San Diego (UCSD), CA, United States, 2022 - 2023</strong><br>
-      <li>Visiting Researcher</li>
+    <li><strong>Visiting Researcher @ University of California San Diego (UCSD), United States, 2022 - 2023</strong><br>
       &nbsp;&nbsp;– Neural Recording and Stimulation SoC Design
     </li>
   </ul>
