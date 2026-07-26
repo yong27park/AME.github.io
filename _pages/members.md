@@ -72,9 +72,8 @@ author_profile: true
 
   <h3>Experiences</h3>
   <ul>
-    <li>Analog & Mixed-Signal Integrated Circuit Design</li>
-    <li>Power Management ICs (PMIC)</li>
-    <li>High-Speed Transceiver Interfaces</li>
+    <li>Staff Engineer, IP Development Team, Samsung Electronics, Korea, 2024 - 2026 </li>
+    <li>Visiting Researcher, University of California San Diego, CA, USA, 2022 - 2023</li>
   </ul>
 </div>
 
