@@ -50,15 +50,14 @@ author_profile: true
 <!-- ================= 1. PROFESSOR TAB ================= -->
 <div id="professor" class="tab-content active">
   <div class="member-card">
-    #<img src="/images/professor.jpg" width="160" height="160" align="left" alt="Professor">
+    <!-- <img src="/images/professor.jpg" width="160" height="160" align="left" alt="Professor"> -->
     <h2>Yongjae Park</h2>
     <p><strong>Assistant Professor</strong><br>
     Department of Semiconductor Systems Engineering<br>
     Principle Investigator of Atelier of Microelectronics (AME)<br><br>
     <strong>Office:</strong> TBD<br>
-    #<strong>Tel:</strong> +82-2-1234-5678<br>
     <strong>Email:</strong> yong27.park@inha.ac.kr<br>
-    #<a href="/files/cv.pdf">[Download CV]</a> <a href="https://scholar.google.com">[Google Scholar]</a></p>
+    <a href="https://scholar.google.com">[Google Scholar]</a></p>
   </div>
   <br clear="all">
 
