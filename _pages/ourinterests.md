@@ -13,7 +13,7 @@ author_profile: true
 
 <br>
 
-![DoA](/images/research_DoA.png)
+![DoA](/AME.github.io/images/research_DoA.png)
 
 ✅ ***What We Want to Solve?***
 - During operation, surgeon should monitor two depth of anesthesia (DoA) indices, MAC and BIS depending on anesthetics
@@ -35,7 +35,7 @@ author_profile: true
 
 <br>
 
-![DPFL](/images/research_DPFL.png)
+![DPFL](/AME.github.io/images/research_DPFL.png)
 
 ✅ ***What We Want to Solve?***
 - Input impedance of AFE should be boosted to be compatible with high impedance of dry-electrodes
@@ -57,7 +57,7 @@ author_profile: true
 
 <br>
 
-![CMI](/images/research_CMI.png)
+![CMI](/AME.github.io/images/research_CMI.png)
 
 ✅ ***What We Want to Solve?***
 - We want to remove reference electrode, thus making conventional 3-electrode recording as 2-electrode recording system
@@ -79,7 +79,7 @@ author_profile: true
 
 <br>
 
-![Blossom](/images/research_Blossom.png)
+![Blossom](/AME.github.io/images/research_Blossom.png)
 
 ✅ ***What We Want to Solve?***
 - High background light from the sunlight can saturate the pixel causing depth image distortions
@@ -103,7 +103,7 @@ author_profile: true
 
 <br>
 
-![Tetra](/images/research_Tetra.png)
+![Tetra](/AME.github.io/images/research_Tetra.png)
 
 ✅ ***What We Want to Solve?***
 - Conventionally, we need two frame images to create one depth image, causing motion artifact
