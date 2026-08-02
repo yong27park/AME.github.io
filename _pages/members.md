@@ -57,7 +57,12 @@ author_profile: true
     Principle Investigator of Atelier of Microelectronics (AME)<br><br>
     <strong>Office:</strong> TBD<br>
     <strong>Email:</strong> yong27.park@inha.ac.kr<br>
-    <a href="https://scholar.google.com">[Google Scholar]</a></p>
+    <strong>Research Interests:</strong><br> 
+    #Biomedical Wearable Sensors / Neural Interfaces / High-Precision Analog-Front-Ends<br>
+    #Time-of-Flight Imager<br>
+    #High-Speed Interfaces / Silicon-Photnics<br>
+    <strong>Publications:</strong> <a href="https://scholar.google.com">[Google Scholar]</a></p><br>
+    
 
   <h3>Education</h3>
   <ul>
