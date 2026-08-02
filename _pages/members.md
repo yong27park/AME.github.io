@@ -68,7 +68,7 @@ author_profile: true
   <h3>Experiences</h3>
   <ul>
     <li>
-      <strong>Assistant Professor @ Inha University, Korea, 2026 - </strong><br>
+      <strong>Assistant Professor @ Inha University, Korea, 2026 - Present</strong><br>
     </li>
     <li><strong>Staff Engineer @ IP Development Team, Samsung Electronics, Korea, 2024 - 2026</strong><br>
       &nbsp;&nbsp;– Electrical IC (EIC) Design for Silicon-Photonics<br>
