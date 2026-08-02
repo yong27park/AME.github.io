@@ -22,7 +22,7 @@ author_profile: true
 - We develop a novel DoA index by employing deep neural network (DNN)
 
 ✅ ***Related Publications*** <br>
-- A Real-Time Depth of Anesthesia Monitoring System Based on Deep Neural Network With Large EDO Tolerant EEG Analog Front-End in IEEE TBioCAS’20
+- A Real-Time Depth of Anesthesia Monitoring System Based on Deep Neural Network With Large EDO Tolerant EEG Analog Front-End in *IEEE TBioCAS’20*
 
 </details>
 
@@ -39,8 +39,8 @@ author_profile: true
 - Feedback factors of DPFLs can be auto-calibrated by the on-chip calibration engine
 
 ✅ ***Related Publications***
-- A 3.8-μW/Ch, 15-GΩ Total Input Impedance Chopper Stabilized Amplifier with Dual Positive Feedback Loops and Auto-calibration Scheme in IEEE VLSI’21
-- A 3.8-µW 1.5-NEF 15-GΩ Total Input Impedance Chopper Stabilized Amplifier With Auto-Calibrated Dual Positive Feedback in 110-nm CMOS in IEEE JSSC’22
+- A 3.8-μW/Ch, 15-GΩ Total Input Impedance Chopper Stabilized Amplifier with Dual Positive Feedback Loops and Auto-calibration Scheme in *IEEE VLSI’21*
+- A 3.8-µW 1.5-NEF 15-GΩ Total Input Impedance Chopper Stabilized Amplifier With Auto-Calibrated Dual Positive Feedback in 110-nm CMOS in *IEEE JSSC’22*
 
 </details>
 
@@ -56,8 +56,8 @@ author_profile: true
 - We extremely reduce common-mode input impedance by developing CMI-Follower circuit while separating Earth-GND and Chip-GND
 
 ✅ ***Related Publications***
-- A 4.6μW 3.3-NEF Biopotential Amplifier with 133VPP Common-Mode Interference Tolerance and 102dB Total Common-Mode Rejection Ratio for Two-Electrode Recording System in IEEE ISSCC’25
-- A 4.6 μW, 133-VPP Common-Mode Interference-Tolerant Biopotential Amplifier for Two-Electrode Recording System in 110-nm CMOS in IEEE JSSC’26
+- A 4.6μW 3.3-NEF Biopotential Amplifier with 133VPP Common-Mode Interference Tolerance and 102dB Total Common-Mode Rejection Ratio for Two-Electrode Recording System in *IEEE ISSCC’25*
+- A 4.6 μW, 133-VPP Common-Mode Interference-Tolerant Biopotential Amplifier for Two-Electrode Recording System in 110-nm CMOS in *IEEE JSSC’26*
 
 </details>
 
