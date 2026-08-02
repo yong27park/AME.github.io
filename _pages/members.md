@@ -11,6 +11,7 @@ author_profile: true
   border-bottom: 2px solid #e0e0e0;
   margin-bottom: 25px;
 }
+
 .tab-button {
   padding: 10px 25px;
   cursor: pointer;
@@ -21,25 +22,37 @@ author_profile: true
   color: #666;
   transition: all 0.2s ease;
 }
+
 .tab-button.active {
   color: #000;
   border-bottom: 3px solid #000;
 }
+
 .tab-content {
   display: none;
 }
+
 .tab-content.active {
   display: block;
 }
+
 .member-card {
   margin-bottom: 25px;
 }
+
 .member-card img {
   border-radius: 50%;
   margin-right: 20px;
   object-fit: cover;
 }
-  
+
+.member-card h3 {
+  border-bottom: 1px solid #d9d9d9;
+  padding-bottom: 6px;
+  margin-top: 28px;
+  margin-bottom: 12px;
+  font-weight: 600;
+}  
 </style>
 
 <!-- 탭 버튼 -->
@@ -55,7 +68,7 @@ author_profile: true
     <h2>Yongjae Park</h2>
     <p><strong>Assistant Professor</strong><br>
     - Department of Semiconductor Systems Engineering, Inha University<br>
-    - Principle Investigator of "Atelier of Microelectronics (AME)"<br>
+    - Principal Investigator of "Atelier of Microelectronics (AME)"<br>
     <strong>Office:</strong> TBD<br>
     <strong>Email:</strong> yong27.park@inha.ac.kr<br>
     <strong>Publications:</strong> <a href="https://scholar.google.com">[Google Scholar]</a>
