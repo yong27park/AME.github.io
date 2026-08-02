@@ -65,14 +65,11 @@ author_profile: true
     </ul>
     <strong>Publications:</strong> <a href="https://scholar.google.com">[Google Scholar]</a></p><br>
 
-  <h3>Education</h3>
+  <h3>Experiences</h3>
   <ul>
-    <li><strong>Ph.D.</strong> in Electrical Engineering, Ulsan National Institute of Science and Technology (UNIST), 2024</li>
-    <li><strong>B.S.</strong> in Electrical Engineering, Ulsan National Institute of Science and Technology (UNIST), 2018</li>
-  </ul>
-
-<h3>Experiences</h3>
-  <ul>
+    <li>
+      <strong>Assistant Professor @ Inha University, Korea, 2026 - </strong><br>
+    </li>
     <li><strong>Staff Engineer @ IP Development Team, Samsung Electronics, Korea, 2024 - 2026</strong><br>
       &nbsp;&nbsp;– Electrical IC (EIC) Design for Silicon-Photonics<br>
       &nbsp;&nbsp;– Custom Die to Die (D2D) Interface Design
@@ -80,6 +77,12 @@ author_profile: true
     <li><strong>Visiting Researcher @ University of California San Diego (UCSD), United States, 2022 - 2023</strong><br>
       &nbsp;&nbsp;– Neural Recording and Stimulation SoC Design
     </li>
+  </ul>
+
+  <h3>Education</h3>
+  <ul>
+    <li><strong>Ph.D.</strong> in Electrical Engineering, Ulsan National Institute of Science and Technology (UNIST), 2024</li>
+    <li><strong>B.S.</strong> in Electrical Engineering, Ulsan National Institute of Science and Technology (UNIST), 2018</li>
   </ul>
 
   <h3>Activities</h3>
