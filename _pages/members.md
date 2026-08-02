@@ -66,12 +66,11 @@ author_profile: true
     <strong>Email:</strong> yong27.park@inha.ac.kr<br>
     <strong>Publications:</strong> <a href="https://scholar.google.com">[Google Scholar]</a>
     </p>
-      
-  <h3><i>Research Interests</i></h3>
+
+  <h3><i>Education</i></h3>
   <ul>
-    <li>Biomedical Wearable Sensors / Neural Interfaces / High-Precision Analog-Front-Ends</li>
-    <li>Time-of-Flight Imager</li>
-    <li>High-Speed Interfaces / Silicon-Photonics</li>
+    <li><strong>Ph.D.</strong> in Electrical Engineering, Ulsan National Institute of Science and Technology (UNIST), 2024</li>
+    <li><strong>B.S.</strong> in Electrical Engineering, Ulsan National Institute of Science and Technology (UNIST), 2018</li>
   </ul>
     
   <h3><i>Experiences</i></h3>
@@ -88,10 +87,11 @@ author_profile: true
     </li>
   </ul>
 
-  <h3><i>Education</i></h3>
+  <h3><i>Research Interests</i></h3>
   <ul>
-    <li><strong>Ph.D.</strong> in Electrical Engineering, Ulsan National Institute of Science and Technology (UNIST), 2024</li>
-    <li><strong>B.S.</strong> in Electrical Engineering, Ulsan National Institute of Science and Technology (UNIST), 2018</li>
+    <li>Biomedical Wearable Sensors / Neural Interfaces / High-Precision Analog-Front-Ends</li>
+    <li>Time-of-Flight Imager</li>
+    <li>High-Speed Interfaces / Silicon-Photonics</li>
   </ul>
 
   <h3><i>Activities</i></h3>
