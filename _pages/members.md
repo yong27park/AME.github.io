@@ -60,7 +60,7 @@ author_profile: true
     <strong>Publications:</strong> <a href="https://scholar.google.com">[Google Scholar]</a>
     </p>
       
-  <h3>Research Interests:</h3>
+  <h3>Research Interests</h3>
   <ul>
     <li>Biomedical Wearable Sensors / Neural Interfaces / High-Precision Analog-Front-Ends</li>
     <li>Time-of-Flight Imager</li>
