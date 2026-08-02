@@ -39,6 +39,13 @@ author_profile: true
   margin-right: 20px;
   object-fit: cover;
 }
+p + ul {
+  margin-top: 0;
+}
+
+p {
+  margin-bottom: 0;
+}
 </style>
 
 <!-- 탭 버튼 -->
