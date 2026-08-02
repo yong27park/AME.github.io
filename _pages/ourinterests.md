@@ -12,7 +12,14 @@ author_profile: true
 ![System Architecture](/images/research_DoA.png)
 ☑️ ***What We Want to Solve?***
 - During operation, surgeon should monitor two depth of anesthesia (DoA) indices, MAC and BIS depending on anesthetics
-   ∴ Two bulky devices are needed to determine DoA
+- ∴ Two bulky devices are needed to determine DoA
+☑️ ***How We Solve?***
+- We design high-precision neural recording AFE with large DC dynamic range for long-term EEG recording
+- We develop a novel DoA index by employing deep neural network (DNN)
+☑️ ***Related Publications***
+- A Real-Time Depth of Anesthesia Monitoring System Based on Deep Neural Network With Large EDO Tolerant EEG Analog Front-End in IEEE TBioCAS’20
+
+
 
 
 
