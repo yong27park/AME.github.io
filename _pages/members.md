@@ -53,7 +53,7 @@ author_profile: true
     <!-- <img src="/images/professor.jpg" width="160" height="160" align="left" alt="Professor"> -->
     <h2>Yongjae Park</h2>
     <p><strong>Assistant Professor</strong><br>
-    @Department of Semiconductor Systems Engineering, Inha University<br>
+    @ Department of Semiconductor Systems Engineering, Inha University<br>
     Principle Investigator of "Atelier of Microelectronics (AME)"<br><br>
     <strong>Office:</strong> TBD<br>
     <strong>Email:</strong> yong27.park@inha.ac.kr<br>
