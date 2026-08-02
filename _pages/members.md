@@ -85,7 +85,7 @@ author_profile: true
       &nbsp;&nbsp;– Custom Die to Die (D2D) Interface Design
     </li>
     <li><strong>Visiting Researcher @ University of California San Diego (UCSD), United States, 2022 - 2023</strong><br>
-      &nbsp;&nbsp;- PI: Prof. Gert Cauwenberghs<br>
+      &nbsp;&nbsp;– PI: Prof. Gert Cauwenberghs<br>
       &nbsp;&nbsp;– Neural Recording and Stimulation SoC Design
     </li>
   </ul>
