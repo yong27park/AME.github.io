@@ -47,11 +47,9 @@ author_profile: true
 }
 
 .member-card h3 {
-  border-bottom: 1px solid #d9d9d9;
-  padding-bottom: 6px;
-  margin-top: 28px;
-  margin-bottom: 12px;
-  font-weight: 600;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 4px;
 }  
 </style>
 
