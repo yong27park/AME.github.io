@@ -16,7 +16,7 @@ About Us - Atelier of Microelectronics (AME)
  Historically, from the Renaissance through the 19th century, the 'Atelier' was a pure place where master craftsmanship met youthful innovation to redefine art and technology. Inspired by this legacy, the Atelier of Microelectronics (AME) pusues to be dedicated to advancing analog and mixed-signal IC design. Through hands-on experimentation, rigorous circuit synthesis, and collaborative learning, we aim to develop next-generation microelectronic solutions. 
 
 Our Mission
-======
+===
 Our mission at the Atelier of Microelectronics (AME) is as follows:
 
 1. Research circuits and systems that benefit humanity.
