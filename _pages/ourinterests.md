@@ -31,8 +31,6 @@ author_profile: true
 <details markdown="1">
 <summary><b>B. AFEs with High Input Impedance</b></summary>
 
-<br>
-
 ![DPFL](/AME.github.io/images/research_DPFL.png)
 
 ✅ ***What We Want to Solve?***
@@ -53,8 +51,6 @@ author_profile: true
 <details markdown="1">
 <summary><b>C. Two-Electrode Bio-potential Recording System</b></summary>
 
-<br>
-
 ![CMI](/AME.github.io/images/research_CMI.png)
 
 ✅ ***What We Want to Solve?***
@@ -74,8 +70,6 @@ author_profile: true
 
 <details markdown="1">
 <summary><b>A. Indirect Time-of-Flight Imager with High Background Light Tolerance </b></summary>
-
-<br>
 
 ![Blossom](/AME.github.io/images/research_Blossom.png)
 
@@ -99,8 +93,6 @@ author_profile: true
 <details markdown="1">
 <summary><b>B. Indirect Time-of-Flight Imager with Motion Artifact and Mismatch Tolerance</b></summary>
 
-<br>
-
 ![Tetra](/AME.github.io/images/research_Tetra.png)
 
 ✅ ***What We Want to Solve?***
@@ -122,8 +114,6 @@ author_profile: true
 
 <details markdown="1">
 <summary><b>A. Temperature Stabilizer for Photonic Devices </b></summary>
-
-<br>
 
 ![Si](/AME.github.io/images/research_Si2.png)
 
