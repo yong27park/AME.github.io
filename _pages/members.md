@@ -104,7 +104,7 @@ author_profile: true
     </li>
   </ul>
 
-  <h3><i>Honors/Grants</i></h3>
+<h3><i>Honors/Grants</i></h3>
   <ul>
     <li>2023-2024 Pre-Doctoral Achievement Award<br>
       &nbsp;&nbsp;<i>Granted by IEEE Solid-State Circuits Society (SSCS)</i> [<a href="https://sscs.ieee.org/membership/awards/predoctoral-achievement-award/">IEEE SSCS</a>]<br>
