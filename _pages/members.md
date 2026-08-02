@@ -64,7 +64,6 @@ author_profile: true
     <li>High-Speed Interfaces / Silicon-Photonics</li>
     </ul>
     <strong>Publications:</strong> <a href="https://scholar.google.com">[Google Scholar]</a></p><br>
-    
 
   <h3>Education</h3>
   <ul>
