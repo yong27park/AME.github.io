@@ -63,7 +63,7 @@ author_profile: true
       <li>Time-of-Flight Imager</li>
       <li>High-Speed Interfaces / Silicon-Photonics</li>
     </ul>
-    <strong>Publications:</strong> <a href="https://scholar.google.com">[Google Scholar]</a></p><br>
+    <strong>Publications:</strong> <a href="https://scholar.google.com">[Google Scholar]</a></p>
 
   <h3>Experiences</h3>
   <ul>
