@@ -11,23 +11,29 @@ author_profile: true
 <details>
 <summary><b>A. Depth of Anesthesia Monitoring System</b></summary>
 
+<br>
+
 ![DoA](/images/research_DoA.png)
 
-✅ ***What We Want to Solve?*** <br>
+✅ ***What We Want to Solve?***
 - During operation, surgeon should monitor two depth of anesthesia (DoA) indices, MAC and BIS depending on anesthetics
 - Therefore, they need two bulky devices are needed to determine DoA
 
-✅ ***How We Solve?*** <br>
+✅ ***How We Solve?***
 - We design high-precision neural recording AFE with large DC dynamic range for long-term EEG recording
 - We develop a novel DoA index by employing deep neural network (DNN)
 
-✅ ***Related Publications*** <br>
+✅ ***Related Publications***
 - A Real-Time Depth of Anesthesia Monitoring System Based on Deep Neural Network With Large EDO Tolerant EEG Analog Front-End in *IEEE TBioCAS’20*
 
 </details>
 
+<br>
+
 <details>
 <summary><b>B. AFEs with High Input Impedance</b></summary>
+
+<br>
 
 ![DPFL](/images/research_DPFL.png)
 
@@ -44,10 +50,14 @@ author_profile: true
 
 </details>
 
+<br>
+
 <details>
 <summary><b>C. Two-Electrode Bio-potential Recording System</b></summary>
 
-![DPFL](/images/research_CMI.png)
+<br>
+
+![CMI](/images/research_CMI.png)
 
 ✅ ***What We Want to Solve?***
 - We want to remove reference electrode, thus making conventional 3-electrode recording as 2-electrode recording system
@@ -57,7 +67,7 @@ author_profile: true
 
 ✅ ***Related Publications***
 - A 4.6μW 3.3-NEF Biopotential Amplifier with 133VPP Common-Mode Interference Tolerance and 102dB Total Common-Mode Rejection Ratio for Two-Electrode Recording System in *IEEE ISSCC’25*
-- A 4.6 μW, 133-VPP Common-Mode Interference-Tolerant Biopotential Amplifier for Two-Electrode Recording System in 110-nm CMOS in *IEEE JSSC’26*
+- A 4.6 μW, 133-VPP Common-Mode Interference-Tolerant Biopotential Amplifier for Two-Electrode Recording System in 110-nm CMOS in *IEEE JSSC’25*
 
 </details>
 
