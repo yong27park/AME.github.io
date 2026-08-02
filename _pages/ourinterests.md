@@ -22,8 +22,18 @@ author_profile: true
 ✅ ***Related Publications***
 - A Real-Time Depth of Anesthesia Monitoring System Based on Deep Neural Network With Large EDO Tolerant EEG Analog Front-End in IEEE TBioCAS’20
 
+**B. AFEs with High Input Impedance**
+![DPFL](/images/research_DPFL.png)
+✅ ***What We Want to Solve?***
+- Input impedance of AFE should be boosted to be compatible with high impedance of dry-electrodes
 
+✅ ***How We Solve?***
+- We develop a dual positive feedback loops (DPFLs) to boost the input impedance even with large parasitic capacitance on PCB (CP-EXT)
+- Feedback factors of DPFLs can be auto-calibrated by the on-chip calibration engine
 
+✅ ***Related Publications***
+- A 3.8-μW/Ch, 15-GΩ Total Input Impedance Chopper Stabilized Amplifier with Dual Positive Feedback Loops and Auto-calibration Scheme in IEEE VLSI’21
+- A 3.8-µW 1.5-NEF 15-GΩ Total Input Impedance Chopper Stabilized Amplifier With Auto-Calibrated Dual Positive Feedback in 110-nm CMOS in IEEE JSSC’22
 
 
 
