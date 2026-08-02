@@ -60,12 +60,12 @@ author_profile: true
     <strong>Publications:</strong> <a href="https://scholar.google.com">[Google Scholar]</a>
     </p>
       
-    <h3>Research Interests:</h3>
-    <ul style="margin-top: 0;">
-      <li>Biomedical Wearable Sensors / Neural Interfaces / High-Precision Analog-Front-Ends</li>
-      <li>Time-of-Flight Imager</li>
-      <li>High-Speed Interfaces / Silicon-Photonics</li>
-    </ul>
+  <h3>Research Interests:</h3>
+  <ul>
+    <li>Biomedical Wearable Sensors / Neural Interfaces / High-Precision Analog-Front-Ends</li>
+    <li>Time-of-Flight Imager</li>
+    <li>High-Speed Interfaces / Silicon-Photonics</li>
+  </ul>
     
 
   <h3>Experiences</h3>
