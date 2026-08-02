@@ -70,7 +70,9 @@ author_profile: true
   <h3><i>Education</i></h3>
   <ul>
     <li><strong>Ph.D.</strong> in Electrical Engineering, Ulsan National Institute of Science and Technology (UNIST), 2024</li>
-    <li><strong>B.S.</strong> in Electrical Engineering, Ulsan National Institute of Science and Technology (UNIST), 2018</li>
+    <li><strong>B.S.</strong> in Electrical Engineering, Ulsan National Institute of Science and Technology (UNIST), 2018<br>
+    (BIAS Lab, PI: Prof. Seong-Jin Kim)
+  </li>
   </ul>
     
   <h3><i>Experiences</i></h3>
