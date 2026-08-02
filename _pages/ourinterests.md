@@ -13,7 +13,7 @@ author_profile: true
 
 <br>
 
-![DoA](./images/research_DoA.png)
+({{ site.baseurl }}/images/research_DoA.png)
 
 ✅ ***What We Want to Solve?***
 - During operation, surgeon should monitor two depth of anesthesia (DoA) indices, MAC and BIS depending on anesthetics
