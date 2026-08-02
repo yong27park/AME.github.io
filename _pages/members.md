@@ -54,13 +54,13 @@ author_profile: true
 
 **Assistant Professor**
 @ Department of Semiconductor Systems Engineering, Inha University
-Principal Investigator of "Atelier of Microelectronics (AME)"
-**Office:** TBD
-**Email:** yong27.park@inha.ac.kr
+Principal Investigator of "Atelier of Microelectronics (AME)"<br>
+**Office:** TBD<br>
+**Email:** yong27.park@inha.ac.kr<br>
 **Research Interests:**
 - Biomedical Wearable Sensors / Neural Interfaces / High-Precision Analog Front-Ends
 - Time-of-Flight Imager
-- High-Speed Interfaces / Silicon Photonics
+- High-Speed Interfaces / Silicon Photonics<br>
 **Publications:** [Google Scholar](https://scholar.google.com)
 
 ### Experiences
