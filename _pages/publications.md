@@ -105,17 +105,17 @@ author_profile: true
 
 ## Grants/Patents
 ---
-1.**2026 IEEE Transactions on Biomedical Circuits and Systems (TBioCAS) Best Reveiwers**<br>
-[[IEEE CAS]](https://https://ieee-cas.org/post/news/ieee-cass-announces-2026-publications-best-associate-editor-and-best-reviewer-award)
+1. **2026 IEEE Transactions on Biomedical Circuits and Systems (TBioCAS) Best Reveiwers**<br>
+<u>Yongjae Park</u> [[IEEE CAS]](https://https://ieee-cas.org/post/news/ieee-cass-announces-2026-publications-best-associate-editor-and-best-reviewer-award)
 
-1.**2023-2024 IEEE Solid-State Circuits Society (SSCS) Pre-Doctoral Achievement Award**<br>
-[[IEEE SSCS]](https://sscs.ieee.org/membership/awards/predoctoral-achievement-award/)
+1. **2023-2024 IEEE Solid-State Circuits Society (SSCS) Pre-Doctoral Achievement Award**<br>
+<u>Yongjae Park</u> [[IEEE SSCS]](https://sscs.ieee.org/membership/awards/predoctoral-achievement-award/)
 
-1.**KR10-2024-0011778 (Granted): 생체 신호 측정 장치, Mar. 2026.**
+1. **KR10-2024-0011778 (Granted): 생체 신호 측정 장치, Mar. 2026.** <br>
  <u>Yongjae Park</u>, Seong-Jin Kim
 
-1.**KR10-2022-0038797 (Granted): 듀얼 포지티브 피드백을 구비한 생체 신호 처리 장치, Jan. 2024.**
+1. **KR10-2022-0038797 (Granted): 듀얼 포지티브 피드백을 구비한 생체 신호 처리 장치, Jan. 2024.** <br>
  <u>Yongjae Park</u>, Seong-Jin Kim 
 
-1.**KR10-2020-0077375 (Granted): DC 오프셋 상쇄를 위한 뇌전도 신호 증폭 장치, Mar. 2022.**
+1. **KR10-2020-0077375 (Granted): DC 오프셋 상쇄를 위한 뇌전도 신호 증폭 장치, Mar. 2022.** <br>
  <u>Yongjae Park</u>, Seong-Jin Kim 
