@@ -8,8 +8,10 @@ redirect_from:
 ---
 
 ---
-![DoA](/AME.github.io/images/Home_1.png)<br>
- Historically, from the Renaissance through the 19th century, the 'Atelier' was a pure place where master craftsmanship met youthful innovation to redefine art and technology. Inspired by this legacy, the Atelier of Microelectronics (AME) pusues to be dedicated to advancing Analog and Mixed-Signal IC design. Through hands-on experimentation, rigorous circuit synthesis, and collaborative learning, we aim to forge next-generation microelectronic solutions. 
+<p align="center">
+  <img src="../images/Home_1.png" width="400">
+</p>
+ Historically, from the Renaissance through the 19th century, the 'Atelier' was a pure place where master craftsmanship met youthful innovation to redefine art and technology. Inspired by this legacy, the Atelier of Microelectronics (AME) pusues to be dedicated to advancing analog and mixed-signal IC design. Through hands-on experimentation, rigorous circuit synthesis, and collaborative learning, we aim to develop next-generation microelectronic solutions. 
 
 Our Mission
 ======
