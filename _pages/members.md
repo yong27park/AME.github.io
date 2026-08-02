@@ -109,6 +109,7 @@ author_profile: true
 <!-- ================= 2. FAMILY TAB ================= -->
 <div id="family" class="tab-content">
 
+<!--
   <h2>Ph.D. Students</h2>
 
   <div class="member-card">
@@ -120,6 +121,7 @@ author_profile: true
     <a href="https://scholar.google.com">[Google Scholar]</a></p>
   </div>
   <br clear="all">
+-->
 
   <div class="member-card">
     <img src="/images/avatar.jpg" width="110" height="110" align="left" alt="John Doe">
