@@ -13,7 +13,7 @@ author_profile: true
 
 <br>
 
-![DoA](/images/research_DoA.png)
+![DoA](./images/research_DoA.png)
 
 ✅ ***What We Want to Solve?***
 - During operation, surgeon should monitor two depth of anesthesia (DoA) indices, MAC and BIS depending on anesthetics
@@ -35,7 +35,7 @@ author_profile: true
 
 <br>
 
-![DPFL](/images/research_DPFL.png)
+![DPFL](./images/research_DPFL.png)
 
 ✅ ***What We Want to Solve?***
 - Input impedance of AFE should be boosted to be compatible with high impedance of dry-electrodes
@@ -57,7 +57,7 @@ author_profile: true
 
 <br>
 
-![CMI](/images/research_CMI.png)
+![CMI](./images/research_CMI.png)
 
 ✅ ***What We Want to Solve?***
 - We want to remove reference electrode, thus making conventional 3-electrode recording as 2-electrode recording system
@@ -74,4 +74,48 @@ author_profile: true
 ## 2. High-Performance Time-of-Flight Depth Imagers
  Time-of-Flight (ToF) image sensors are widely used in various consumer applications, such as robot vacuum cleaners, Face ID systems, and AR/VR devices. As these applications require reliable operation under diverse environmental conditions, improving the robustness of ToF imaging systems is essential. Our research specifically addresses two critical challenges: image degradation under strong background illumination and image distortion caused by device mismatches.
 
+<details markdown="1">
+<summary><b>A. Indirect Time-of-Flight Imager with High Background Light Tolerance </b></summary>
+
+<br>
+
+![CMI](./images/research_Blossom.png)
+
+✅ ***What We Want to Solve?***
+- High background light from the sunlight can saturate the pixel causing depth image distortions
+- We want to enhance the dynamic range of each pixel without compromising image quality
+
+✅ ***How We Solve?***
+- We employ in-pixel adaptive delta-sigma circuit to remove only common-mode charge, thus enhance the dynamic range
+- Pixel-level floating diffusion swapping enhances the depth linearity
+
+
+✅ ***Related Publications***
+- A 160×120 Indirect Time-of-Flight Sensor with Pixel-Level Adaptive ΔΣ-Operations for Background Light Cancellation in *IEEE A-SSCC’23*
+- An Indirect ToF Sensor With In-Pixel Adaptive ΔΣ-Scheme for Background Light Rejection and Floating Diffusion Mismatch Cancellation in *IEEE JSSC’25*
+
+</details>
+
+<br>
+
+<details markdown="1">
+<summary><b>B. Indirect Time-of-Flight Imager with Motion Artifact and Mismatch Tolerance</b></summary>
+
+<br>
+
+![DPFL](./images/research_Tetra.png)
+
+✅ ***What We Want to Solve?***
+- Conventionally, we need two frame images to create one depth image, causing motion artifact
+- Floating diffusion(FD) mismatch creates significant non-linearity distorting depth images
+
+✅ ***How We Solve?***
+- We develop tetra-pixel architecture to provide one depth image in a single shot
+- FD mismatches can be mitigated by simple interpolation technique
+
+✅ ***Related Publications***
+- An Indirect Time-of-Flight Sensor with Adaptive Multiple Sampling for High Depth Precision in *IEEE VLSI’22*
+- An Indirect Time-of-Flight Sensor With Tetra-Pixel Architecture Calibrating Tap Mismatch in a Single Frame in *IEEE SSC-L’22*
+
+</details>
 
