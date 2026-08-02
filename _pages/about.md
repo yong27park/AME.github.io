@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
----
+
 About Us - Atelier of Microelectronics (AME)
 ===
 <p align="center">
