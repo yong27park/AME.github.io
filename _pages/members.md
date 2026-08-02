@@ -99,18 +99,18 @@ author_profile: true
   <li>Journals/Conferences Review<br>
       &nbsp;&nbsp;– <i>IEEE Journal of Solid-State Circuits (JSSC)</i><br>
       &nbsp;&nbsp;– <i>IEEE Transactions on Biomedical Circuits and Systems (TBioCAS)</i><br>
-      &nbsp;&nbsp;– <i>IEEE International Symposium on Circuits and Systems (ISCAS)</i>i><br>
-      &nbsp;&nbsp;– <i>IEEE Biomedical Circuits and Systems (BioCAS)</i>i><br>
+      &nbsp;&nbsp;– <i>IEEE International Symposium on Circuits and Systems (ISCAS)</i><br>
+      &nbsp;&nbsp;– <i>IEEE Biomedical Circuits and Systems (BioCAS)</i><br>
     </li>
   </ul>
 
   <h3><i>Honors/Grants</i></h3>
   <ul>
-  <li>2023-2024 Pre-Doctoral Achievement Award**<br>
+  <li>2023-2024 Pre-Doctoral Achievement Award<br>
       &nbsp;&nbsp;<i>Granted by IEEE Solid-State Circuits Society (SSCS)</i> [[IEEE SSCS]](https://sscs.ieee.org/membership/awards/predoctoral-achievement-award/)<br>
   </li>
-  <li>2026 Best Reveiwers<br>
-      &nbsp;&nbsp;<i>IEEE Transactions on Biomedical Circuits and Systems (TBioCAS)</i> [[IEEE CAS]](https://https://ieee-cas.org/post/news/ieee-cass-announces-2026-publications-best-associate-editor-and-best-reviewer-award)<br>
+  <li>2026 Best Reviewer<br>
+      &nbsp;&nbsp;<i>IEEE Transactions on Biomedical Circuits and Systems (TBioCAS)</i> [[IEEE CAS]](https://ieee-cas.org/post/news/ieee-cass-announces-2026-publications-best-associate-editor-and-best-reviewer-award)<br>
   </li>
   </ul>
 </div>
