@@ -52,18 +52,23 @@ author_profile: true
   <div class="member-card">
     <!-- <img src="/images/professor.jpg" width="160" height="160" align="left" alt="Professor"> -->
     <h2>Yongjae Park</h2>
-    <p><strong>Assistant Professor</strong><br>
+    <p>
+    <strong>Assistant Professor</strong><br>
     @ Department of Semiconductor Systems Engineering, Inha University<br>
     Principle Investigator of "Atelier of Microelectronics (AME)"<br>
     <strong>Office:</strong> TBD<br>
     <strong>Email:</strong> yong27.park@inha.ac.kr<br>
     <strong>Research Interests:</strong>
-    <ul style="margin-top: 0;">
-      <li>Biomedical Wearable Sensors / Neural Interfaces / High-Precision Analog-Front-Ends</li>
-      <li>Time-of-Flight Imager</li>
-      <li>High-Speed Interfaces / Silicon-Photonics</li>
+    </p>
+    <ul style="margin-top:0; margin-bottom:0;">
+    <li>Biomedical Wearable Sensors / Neural Interfaces / High-Precision Analog Front-Ends</li>
+    <li>Time-of-Flight Imager</li>
+    <li>High-Speed Interfaces / Silicon Photonics</li>
     </ul>
-    <strong>Publications:</strong> <a href="https://scholar.google.com">[Google Scholar]</a></p>
+    <p>
+    <strong>Publications:</strong>
+    <a href="https://scholar.google.com">Google Scholar</a>
+    </p>
 
   <h3>Experiences</h3>
   <ul>
