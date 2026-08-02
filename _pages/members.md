@@ -60,7 +60,7 @@ Principal Investigator of "Atelier of Microelectronics (AME)"<br>
 **Research Interests:**
 - Biomedical Wearable Sensors / Neural Interfaces / High-Precision Analog Front-Ends
 - Time-of-Flight Imager
-- High-Speed Interfaces / Silicon Photonics
+- High-Speed Interfaces / Silicon Photonics<br>
 
 **Publications:** [Google Scholar](https://scholar.google.com)
 
