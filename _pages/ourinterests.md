@@ -79,7 +79,7 @@ author_profile: true
 
 <br>
 
-![CMI](./images/research_Blossom.png)
+![Blossom](./images/research_Blossom.png)
 
 ✅ ***What We Want to Solve?***
 - High background light from the sunlight can saturate the pixel causing depth image distortions
@@ -103,7 +103,7 @@ author_profile: true
 
 <br>
 
-![DPFL](./images/research_Tetra.png)
+![Tetra](./images/research_Tetra.png)
 
 ✅ ***What We Want to Solve?***
 - Conventionally, we need two frame images to create one depth image, causing motion artifact
