@@ -106,10 +106,10 @@ author_profile: true
 ## Grants/Patents
 ---
 1. **2026 Best Reveiwers** <br>
-- IEEE Transactions on Biomedical Circuits and Systems (TBioCAS) [[IEEE CAS]](https://https://ieee-cas.org/post/news/ieee-cass-announces-2026-publications-best-associate-editor-and-best-reviewer-award)
+IEEE Transactions on Biomedical Circuits and Systems (TBioCAS) [[IEEE CAS]](https://https://ieee-cas.org/post/news/ieee-cass-announces-2026-publications-best-associate-editor-and-best-reviewer-award)
 
 1. **2023-2024 Pre-Doctoral Achievement Award** <br>
-- Granted by IEEE Solid-State Circuits Society (SSCS) [[IEEE SSCS]](https://sscs.ieee.org/membership/awards/predoctoral-achievement-award/)
+Granted by IEEE Solid-State Circuits Society (SSCS) [[IEEE SSCS]](https://sscs.ieee.org/membership/awards/predoctoral-achievement-award/)
 
 1. **KR10-2024-0011778 (Granted): 생체 신호 측정 장치, Mar. 2026.** <br>
  <u>Yongjae Park</u>, Seong-Jin Kim
