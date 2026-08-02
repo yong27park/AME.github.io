@@ -40,7 +40,7 @@ author_profile: true
   object-fit: cover;
 }
 
-h3 {
+.h3 {
   border-bottom: 1px solid #ddd;
   padding-bottom: 4px;
   margin-top: 25px;
