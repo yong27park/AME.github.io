@@ -48,7 +48,6 @@ author_profile: true
 </div>
 
 <!-- ================= 1. PROFESSOR TAB ================= -->
-<!-- ================= 1. PROFESSOR TAB ================= -->
 <div id="professor" class="tab-content active">
 
 # Yongjae Park
@@ -56,7 +55,7 @@ author_profile: true
 **Assistant Professor**
 @ Department of Semiconductor Systems Engineering, Inha University
 Principal Investigator of "Atelier of Microelectronics (AME)"
-**Office:** TBD<br>
+**Office:** TBD
 **Email:** yong27.park@inha.ac.kr
 **Research Interests:**
 - Biomedical Wearable Sensors / Neural Interfaces / High-Precision Analog Front-Ends
