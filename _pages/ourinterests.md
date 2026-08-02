@@ -11,8 +11,6 @@ author_profile: true
 <details markdown="1">
 <summary><b>A. Depth of Anesthesia Monitoring System</b></summary>
 
-<br>
-
 ![DoA](/AME.github.io/images/research_DoA.png)
 
 ✅ ***What We Want to Solve?***
