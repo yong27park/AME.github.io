@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Us - Atelier of Microelectronics (AME)"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 ---
+About Us - Atelier of Microelectronics (AME)
+===
 <p align="center">
   <img src="{{ site.baseurl }}/images/Home_1.png" width="400">
 </p>
