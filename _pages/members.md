@@ -82,6 +82,14 @@ author_profile: true
     </li>
   </ul>
 
+  <h3>Activities</h3>
+  <li><strong>Journals/Conferences Reviewers</strong><br>
+      &nbsp;&nbsp;– IEEE Journal of Solid-State Circuits (JSSC)<br>
+      &nbsp;&nbsp;– IEEE Transactions on Biomedical Circuits and Systems (TBioCAS)<br>
+      &nbsp;&nbsp;– IEEE International Symposium on Circuits and Systems (ISCAS)<br>
+      &nbsp;&nbsp;– IEEE Biomedical Circuits and Systems (BioCAS)<br>
+    </li>
+
 </div>
 
 <!-- ================= 2. FAMILY TAB ================= -->
