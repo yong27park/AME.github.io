@@ -83,7 +83,7 @@ author_profile: true
     </li>
   </ul>
 
-  <h2><i><u>Education</u></i></h2>
+  <h3><i><u>Education</u></i></h3>
   <ul>
     <li><strong>Ph.D.</strong> in Electrical Engineering, Ulsan National Institute of Science and Technology (UNIST), 2024</li>
     <li><strong>B.S.</strong> in Electrical Engineering, Ulsan National Institute of Science and Technology (UNIST), 2018</li>
