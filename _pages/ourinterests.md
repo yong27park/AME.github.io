@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: archive 
 title: "Our Interests"
 permalink: /ourinterests/
 author_profile: true
