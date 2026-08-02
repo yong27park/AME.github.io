@@ -8,9 +8,11 @@ author_profile: true
 ## 1. High-Precision Sensor Interfaces
  We are deeply interested in developing high-precision sensor interfaces systems, especially focusing on biomedical wearable sensors, and neural interfaces. An analog-front-ends (AFEs) which is one of the core circuit blocks that interfaces with our real environment mostly determines overall performance of the systems. Therefore, we aim to design energy efficient but high-performance at the same time AFEs to communicate better with our real world.
  
- **A. Depth of Anesthesia Monitoring System**
- 
+<details>
+<summary><b>A. Depth of Anesthesia Monitoring System</b></summary>
+
 ![DoA](/images/research_DoA.png)
+
 ✅ ***What We Want to Solve?***
 - During operation, surgeon should monitor two depth of anesthesia (DoA) indices, MAC and BIS depending on anesthetics
 - Therefore, they need two bulky devices are needed to determine DoA
@@ -22,8 +24,15 @@ author_profile: true
 ✅ ***Related Publications***
 - A Real-Time Depth of Anesthesia Monitoring System Based on Deep Neural Network With Large EDO Tolerant EEG Analog Front-End in IEEE TBioCAS’20
 
-**B. AFEs with High Input Impedance**
+</details>
+
+<br>
+
+<details>
+<summary><b>B. AFEs with High Input Impedance</b></summary>
+
 ![DPFL](/images/research_DPFL.png)
+
 ✅ ***What We Want to Solve?***
 - Input impedance of AFE should be boosted to be compatible with high impedance of dry-electrodes
 
@@ -34,6 +43,8 @@ author_profile: true
 ✅ ***Related Publications***
 - A 3.8-μW/Ch, 15-GΩ Total Input Impedance Chopper Stabilized Amplifier with Dual Positive Feedback Loops and Auto-calibration Scheme in IEEE VLSI’21
 - A 3.8-µW 1.5-NEF 15-GΩ Total Input Impedance Chopper Stabilized Amplifier With Auto-Calibrated Dual Positive Feedback in 110-nm CMOS in IEEE JSSC’22
+
+</details>
 
 
 
