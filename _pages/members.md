@@ -104,6 +104,7 @@ author_profile: true
     </li>
   </ul>
 </div>
+</div>
 
 <!-- ================= 2. FAMILY TAB ================= -->
 <div id="family" class="tab-content">
