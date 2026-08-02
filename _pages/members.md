@@ -53,9 +53,9 @@ author_profile: true
 
 # Yongjae Park
 
-**Assistant Professor**<br>
-@ Department of Semiconductor Systems Engineering, Inha University<br>
-Principal Investigator of "Atelier of Microelectronics (AME)"<br>
+**Assistant Professor** <br>
+@ Department of Semiconductor Systems Engineering, Inha University <br>
+Principal Investigator of "Atelier of Microelectronics (AME)" <br>
 **Office:** TBD<br>
 **Email:** yong27.park@inha.ac.kr<br>
 **Research Interests:** <br>
