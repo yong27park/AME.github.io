@@ -72,6 +72,6 @@ author_profile: true
 </details>
 
 ## 2. High-Performance Time-of-Flight Depth Imagers
-
+ Time-of-Flight (ToF) image sensors are widely used in various consumer applications, such as robot vacuum cleaners, Face ID systems, and AR/VR devices. As these applications require reliable operation under diverse environmental conditions, improving the robustness of ToF imaging systems is essential. Our research specifically addresses two critical challenges: image degradation under strong background illumination and image distortion caused by device mismatches.
 
 
