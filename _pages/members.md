@@ -69,10 +69,10 @@ author_profile: true
 
   <h3><i>Education</i></h3>
   <ul>
-    <li><strong>Ph.D.</strong> in Electrical Engineering, Ulsan National Institute of Science and Technology (UNIST), 2024</li>
-    <li><strong>B.S.</strong> in Electrical Engineering, Ulsan National Institute of Science and Technology (UNIST), 2018<br>
-    (BIAS Lab, PI: Prof. Seong-Jin Kim)
+    <li><strong>Ph.D.</strong> in Electrical Engineering, Ulsan National Institute of Science and Technology (UNIST), 2024<br>
+    (PI: Prof. Seong-Jim Kim)
   </li>
+    <li><strong>B.S.</strong> in Electrical Engineering, Ulsan National Institute of Science and Technology (UNIST), 2018</li>
   </ul>
     
   <h3><i>Experiences</i></h3>
@@ -85,6 +85,7 @@ author_profile: true
       &nbsp;&nbsp;– Custom Die to Die (D2D) Interface Design
     </li>
     <li><strong>Visiting Researcher @ University of California San Diego (UCSD), United States, 2022 - 2023</strong><br>
+      &nbsp;&nbsp;- PI: Prof. Gert Cauwenberghs
       &nbsp;&nbsp;– Neural Recording and Stimulation SoC Design
     </li>
   </ul>
