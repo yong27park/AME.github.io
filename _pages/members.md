@@ -57,17 +57,18 @@ author_profile: true
     Principle Investigator of Atelier of Microelectronics (AME)<br><br>
     <strong>Office:</strong> TBD<br>
     <strong>Email:</strong> yong27.park@inha.ac.kr<br>
-    <strong>Research Interests:</strong><br> 
-    #Biomedical Wearable Sensors / Neural Interfaces / High-Precision Analog-Front-Ends<br>
-    #Time-of-Flight Imager<br>
-    #High-Speed Interfaces / Silicon-Photnics<br>
+    <strong>Research Interests:</strong><br>
+    <ul>
+    <li>Biomedical Wearable Sensors / Neural Interfaces / High-Precision Analog-Front-Ends</li>
+    </li>Time-of-Flight Imager</li>
+    </li>High-Speed Interfaces / Silicon-Photnics</li>
+    </ul>
     <strong>Publications:</strong> <a href="https://scholar.google.com">[Google Scholar]</a></p><br>
     
 
   <h3>Education</h3>
   <ul>
     <li><strong>Ph.D.</strong> in Electrical Engineering, Ulsan National Institute of Science and Technology (UNIST), 2024</li>
-    <!-- <li><strong>M.S.</strong> in Electrical Engineering, KAIST, 2014</li> -->
     <li><strong>B.S.</strong> in Electrical Engineering, Ulsan National Institute of Science and Technology (UNIST), 2018</li>
   </ul>
 
