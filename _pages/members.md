@@ -96,7 +96,7 @@ author_profile: true
 
   <h3><i>Activities</i></h3>
   <ul>
-  <li><strong>Journals/Conferences Review</strong><br>
+  <li>Journals/Conferences Review<br>
       &nbsp;&nbsp;– <i>IEEE Journal of Solid-State Circuits (JSSC)</i><br>
       &nbsp;&nbsp;– <i>IEEE Transactions on Biomedical Circuits and Systems (TBioCAS)</i> *Selected as a Best Reviewer in 2026<br>
       &nbsp;&nbsp;– <i>IEEE International Symposium on Circuits and Systems (ISCAS)<i><br>
