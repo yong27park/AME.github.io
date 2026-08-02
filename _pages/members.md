@@ -103,6 +103,15 @@ author_profile: true
       &nbsp;&nbsp;– <i>IEEE Biomedical Circuits and Systems (BioCAS)</i><br>
     </li>
   </ul>
+
+  <h3><i>Grants/Honors</i></h3>
+  <ul>
+    <li>Best Reviewer<br>
+    - <i>IEEE Transactions on Biomedical Circuits and Systems (TBioCAS)</i>, 2026 <a href="https://ieee-cas.org/post/news/ieee-cass-announces-2026-publications-best-associate-editor-and-best-reviewer-award">[IEEE CAS]</a></li>
+    <li>Pre-Doctoral Achievement Award<br>
+    - Granted by <i>IEEE Solid-State Circuits Society (SSCS)</i>, 2023-2024 <a href="https://sscs.ieee.org/membership/awards/predoctoral-achievement-award/">[IEEE SSCS]</a></li>
+  </ul>
+  
 </div>
 </div>
 
