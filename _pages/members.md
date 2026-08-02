@@ -1,232 +1,118 @@
 ---
-
 layout: archive
-
 title: "Members"
-
 permalink: /members/
-
 author_profile: true
-
 ---
 
-
-
 <style>
-
 .tab-container {
-
   display: flex;
-
   border-bottom: 2px solid #e0e0e0;
-
   margin-bottom: 25px;
-
 }
-
-
-
 .tab-button {
-
   padding: 10px 25px;
-
   cursor: pointer;
-
   border: none;
-
   background: none;
-
   font-size: 1.15rem;
-
   font-weight: bold;
-
   color: #666;
-
   transition: all 0.2s ease;
-
 }
-
-
-
 .tab-button.active {
-
   color: #000;
-
   border-bottom: 3px solid #000;
-
 }
-
-
-
 .tab-content {
-
-  display: none;
-
-}
-
-
-
-.tab-content.active {
-
   display: block;
-
 }
-
-
-
 .member-card {
-
   margin-bottom: 25px;
-
 }
-
-
-
-.member-card img {
-
-  border-radius: 50%;
-
-  margin-right: 20px;
-
-  object-fit: cover;
-
-}
-
-
-
 </style>
 
-
-
-<!-- 탭 버튼 -->
-
+<!-- Tab -->
 <div class="tab-container">
-
-  <button class="tab-button active" onclick="openTab(event, 'professor')">Professor</button>
-
-  <button class="tab-button" onclick="openTab(event, 'family')">Family</button>
-
+  <button class="tab-button active">Professor</button>
 </div>
 
-
-
-<!-- ================= 1. PROFESSOR TAB ================= -->
-
-<div id="professor" class="tab-content active">
+<div id="professor" class="tab-content">
 
   <div class="member-card">
 
-    <!-- <img src="/images/professor.jpg" width="160" height="160" align="left" alt="Professor"> -->
-
     <h2>Yongjae Park</h2>
 
-    <p><strong>Assistant Professor</strong><br>
-
-    - Department of Semiconductor Systems Engineering, Inha University<br>
-
-    - Principal Investigator of "Atelier of Microelectronics (AME)"<br>
-
-    <strong>Office:</strong> TBD<br>
-
-    <strong>Email:</strong> yong27.park@inha.ac.kr<br>
-
-    <strong>Publications:</strong> <a href="https://scholar.google.com">[Google Scholar]</a>
-
+    <p>
+      <strong>Assistant Professor</strong><br>
+      Department of Semiconductor Systems Engineering, Inha University<br>
+      Principal Investigator, Atelier of Microelectronics (AME)<br>
+      <strong>Office:</strong> TBD<br>
+      <strong>Email:</strong> yong27.park@inha.ac.kr<br>
+      <strong>Publications:</strong>
+      <a href="https://scholar.google.com" target="_blank">Google Scholar</a>
     </p>
 
+    <h3><i>Education</i></h3>
+    <ul>
+      <li><strong>Ph.D.</strong>, Electrical Engineering, Ulsan National Institute of Science and Technology (UNIST), 2024</li>
+      <li><strong>B.S.</strong>, Electrical Engineering, Ulsan National Institute of Science and Technology (UNIST), 2018</li>
+    </ul>
 
+    <h3><i>Professional Experience</i></h3>
+    <ul>
+      <li>
+        <strong>Assistant Professor</strong>, Inha University, Korea (2026–Present)
+      </li>
 
-  <h3><i>Education</i></h3>
+      <li>
+        <strong>Staff Engineer</strong>, IP Development Team, Samsung Electronics, Korea (2024–2026)<br>
+        &nbsp;&nbsp;– Electrical IC (EIC) Design for Silicon Photonics<br>
+        &nbsp;&nbsp;– Custom Die-to-Die (D2D) Interface Design
+      </li>
 
-  <ul>
+      <li>
+        <strong>Visiting Researcher</strong>, University of California San Diego (UCSD), USA (2022–2023)<br>
+        &nbsp;&nbsp;– Neural Recording and Stimulation SoC Design
+      </li>
+    </ul>
 
-    <li><strong>Ph.D.</strong> in Electrical Engineering, Ulsan National Institute of Science and Technology (UNIST), 2024</li>
+    <h3><i>Research Interests</i></h3>
+    <ul>
+      <li>Biomedical Wearable Sensors</li>
+      <li>Neural Interfaces</li>
+      <li>High-Precision Analog Front-Ends</li>
+      <li>Time-of-Flight Imaging Sensors</li>
+      <li>High-Speed Interfaces</li>
+      <li>Silicon Photonics</li>
+    </ul>
 
-    <li><strong>B.S.</strong> in Electrical Engineering, Ulsan National Institute of Science and Technology (UNIST), 2018</li>
+    <h3><i>Professional Activities</i></h3>
+    <ul>
+      <li>
+        <strong>Journal and Conference Reviewer</strong><br>
+        &nbsp;&nbsp;– <i>IEEE Journal of Solid-State Circuits (JSSC)</i><br>
+        &nbsp;&nbsp;– <i>IEEE Transactions on Biomedical Circuits and Systems (TBioCAS)</i><br>
+        &nbsp;&nbsp;– <i>IEEE International Symposium on Circuits and Systems (ISCAS)</i><br>
+        &nbsp;&nbsp;– <i>IEEE Biomedical Circuits and Systems (BioCAS)</i>
+      </li>
+    </ul>
 
-  </ul>
+    <h3><i>Honors & Awards</i></h3>
+    <ul>
+      <li>
+        <strong>IEEE SSCS Pre-Doctoral Achievement Award (2023–2024)</strong><br>
+        &nbsp;&nbsp;Granted by the IEEE Solid-State Circuits Society (SSCS)
+      </li>
 
-    
+      <li>
+        <strong>IEEE TBioCAS Best Reviewer Award (2026)</strong><br>
+        &nbsp;&nbsp;Granted by the IEEE Circuits and Systems Society (CASS)
+      </li>
+    </ul>
 
-  <h3><i>Experiences</i></h3>
-
-  <ul>
-
-    <li>
-
-      <strong>Assistant Professor @ Inha University, Korea, 2026 - Present</strong><br>
-
-    </li>
-
-    <li><strong>Staff Engineer @ IP Development Team, Samsung Electronics, Korea, 2024 - 2026</strong><br>
-
-      &nbsp;&nbsp;– Electrical IC (EIC) Design for Silicon-Photonics<br>
-
-      &nbsp;&nbsp;– Custom Die to Die (D2D) Interface Design
-
-    </li>
-
-    <li><strong>Visiting Researcher @ University of California San Diego (UCSD), United States, 2022 - 2023</strong><br>
-
-      &nbsp;&nbsp;– Neural Recording and Stimulation SoC Design
-
-    </li>
-
-  </ul>
-
-
-
-  <h3><i>Research Interests</i></h3>
-
-  <ul>
-
-    <li>Biomedical Wearable Sensors / Neural Interfaces / High-Precision Analog-Front-Ends</li>
-
-    <li>Time-of-Flight Imager</li>
-
-    <li>High-Speed Interfaces / Silicon-Photonics</li>
-
-  </ul>
-
-
-
-  <h3><i>Activities</i></h3>
-
-  <ul>
-
-  <li>Journals/Conferences Review<br>
-
-      &nbsp;&nbsp;– <i>IEEE Journal of Solid-State Circuits (JSSC)</i><br>
-
-      &nbsp;&nbsp;– <i>IEEE Transactions on Biomedical Circuits and Systems (TBioCAS)</i><br>
-
-      &nbsp;&nbsp;– <i>IEEE International Symposium on Circuits and Systems (ISCAS)</i><br>
-
-      &nbsp;&nbsp;– <i>IEEE Biomedical Circuits and Systems (BioCAS)</i><br>
-
-    </li>
-
-  </ul>
-
-
-
-<h3><i>Honors/Grants</i></h3>
-
-  <ul>
-
-    <li>2023-2024 Pre-Doctoral Achievement Award<br>
-
-      &nbsp;&nbsp;<i>Granted by IEEE Solid-State Circuits Society (SSCS)</i> [<a href="https://sscs.ieee.org/membership/awards/predoctoral-achievement-award/">IEEE SSCS</a>]<br>
-
-    </li>
-
-    <li>2026 Best Reviewer<br>
-
-      &nbsp;&nbsp;<i>IEEE Transactions on Biomedical Circuits and Systems (TBioCAS)</i> [<a href="https://ieee-cas.org/post/news/ieee-cass-announces-2026-publications-best-associate-editor-and-best-reviewer-award">IEEE CAS</a>]<br>
-
-    </li>
-
-  </ul>
+  </div>
 
 </div>
 
