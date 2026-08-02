@@ -53,18 +53,16 @@ author_profile: true
 
 # Yongjae Park
 
-**Assistant Professor** <br>
-@ Department of Semiconductor Systems Engineering, Inha University <br>
-Principal Investigator of "Atelier of Microelectronics (AME)" <br>
+**Assistant Professor**
+@ Department of Semiconductor Systems Engineering, Inha University
+Principal Investigator of "Atelier of Microelectronics (AME)"
 **Office:** TBD<br>
 **Email:** yong27.park@inha.ac.kr
-
-**Research Interests:** <br>
-- Biomedical Wearable Sensors / Neural Interfaces / High-Precision Analog Front-Ends <br>
-- Time-of-Flight Imager <br>
+**Research Interests:**
+- Biomedical Wearable Sensors / Neural Interfaces / High-Precision Analog Front-Ends
+- Time-of-Flight Imager
 - High-Speed Interfaces / Silicon Photonics
-
-**Publications:** [Google Scholar](https://scholar.google.com) <br>
+**Publications:** [Google Scholar](https://scholar.google.com)
 
 ### Experiences
 
