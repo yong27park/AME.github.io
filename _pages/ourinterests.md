@@ -10,7 +10,7 @@ author_profile: true
  
  **A. Depth of Anesthesia Monitoring System**
 
-![System Architecture](/images/research1.png)
+![System Architecture](/images/research_DoA.png)
 
 ### Principal Investigator
 * **Yongjae Park** (Ph.D. Student)
