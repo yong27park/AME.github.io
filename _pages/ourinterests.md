@@ -9,7 +9,7 @@ author_profile: true
  We are deeply interested in developing high-precision sensor interfaces systems, especially focusing on biomedical wearable sensors, and neural interfaces. An analog-front-ends (AFEs) which is one of the core circuit blocks that interfaces with our real environment mostly determines overall performance of the systems. Therefore, we aim to design energy efficient but high-performance at the same time AFEs to communicate better with our real world.
  
 <details>
-<summary><b>A. Depth of Anesthesia Monitoring System</b></summary><br>
+<summary><b>A. Depth of Anesthesia Monitoring System</b></summary>
 
 ![DoA](/images/research_DoA.png)
 
@@ -23,6 +23,7 @@ author_profile: true
 
 ✅ ***Related Publications*** <br>
 - A Real-Time Depth of Anesthesia Monitoring System Based on Deep Neural Network With Large EDO Tolerant EEG Analog Front-End in IEEE TBioCAS’20
+
 </details>
 
 <details>
@@ -40,6 +41,7 @@ author_profile: true
 ✅ ***Related Publications***
 - A 3.8-μW/Ch, 15-GΩ Total Input Impedance Chopper Stabilized Amplifier with Dual Positive Feedback Loops and Auto-calibration Scheme in IEEE VLSI’21
 - A 3.8-µW 1.5-NEF 15-GΩ Total Input Impedance Chopper Stabilized Amplifier With Auto-Calibrated Dual Positive Feedback in 110-nm CMOS in IEEE JSSC’22
+
 </details>
 
 <details>
@@ -56,6 +58,7 @@ author_profile: true
 ✅ ***Related Publications***
 - A 4.6μW 3.3-NEF Biopotential Amplifier with 133VPP Common-Mode Interference Tolerance and 102dB Total Common-Mode Rejection Ratio for Two-Electrode Recording System in IEEE ISSCC’25
 - A 4.6 μW, 133-VPP Common-Mode Interference-Tolerant Biopotential Amplifier for Two-Electrode Recording System in 110-nm CMOS in IEEE JSSC’26
+
 </details>
 
 ## 2. High-Performance Time-of-Flight Depth Imagers
