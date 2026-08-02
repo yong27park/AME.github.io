@@ -127,7 +127,7 @@ author_profile: true
 
 <br>
 
-![Si](/images/research_Si2.png)
+![Si]({{ site.baseurl }}/images/research_Si2.png)
 
 ✅ ***What We Want to Solve?***
 - Large temperature variations during data transmission induce resonant wavelength shifts, leading to severe bit-error-rate (BER) degradation.
