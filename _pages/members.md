@@ -123,37 +123,6 @@ author_profile: true
   <br clear="all">
 -->
 
-  <div class="member-card">
-    <img src="/images/avatar.jpg" width="110" height="110" align="left" alt="John Doe">
-    <h3>John Doe</h3>
-    <p><strong>Ph.D. Student</strong> (2024.03 ~ Present)<br>
-    <strong>Research Interest:</strong> Low-Power Analog-to-Digital Converters (ADC)<br>
-    <strong>Email:</strong> johndoe@university.ac.kr</p>
-  </div>
-  <br clear="all">
-
-  <hr>
-
-  <h2>M.S. Students</h2>
-
-  <div class="member-card">
-    <img src="/images/avatar.jpg" width="110" height="110" align="left" alt="Younghee Kim">
-    <h3>Young-Hee Kim (김영희)</h3>
-    <p><strong>M.S. Student</strong> (2024.09 ~ Present)<br>
-    <strong>Research Interest:</strong> High-Speed SerDes Link Interfaces<br>
-    <strong>Email:</strong> yhkim@university.ac.kr</p>
-  </div>
-  <br clear="all">
-
-  <hr>
-
-  <h2>Alumni</h2>
-
-  <h3>M.S. Graduates</h3>
-  <ul>
-    <li><strong>Min-Soo Park (박민수)</strong> - Graduated Feb 2025 (Thesis: <i>A 10-bit SAR ADC Design</i>) / Currently at Samsung Electronics</li>
-    <li><strong>Jane Smith</strong> - Graduated Aug 2024 / Currently at SK Hynix</li>
-  </ul>
 
 </div>
 
