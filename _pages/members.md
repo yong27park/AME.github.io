@@ -46,11 +46,6 @@ author_profile: true
   object-fit: cover;
 }
 
-.member-card h3 {
-  text-decoration: underline;
-  text-decoration-thickness: 2px;
-  text-underline-offset: 4px;
-}  
 </style>
 
 <!-- 탭 버튼 -->
@@ -94,7 +89,7 @@ author_profile: true
     </li>
   </ul>
 
-  <h3><i><u>Education</u></i></h3>
+  <h3><i>Education</i></h3>
   <ul>
     <li><strong>Ph.D.</strong> in Electrical Engineering, Ulsan National Institute of Science and Technology (UNIST), 2024</li>
     <li><strong>B.S.</strong> in Electrical Engineering, Ulsan National Institute of Science and Technology (UNIST), 2018</li>
