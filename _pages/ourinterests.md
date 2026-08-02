@@ -9,19 +9,19 @@ author_profile: true
  We are deeply interested in developing high-precision sensor interfaces systems, especially focusing on biomedical wearable sensors, and neural interfaces. An analog-front-ends (AFEs) which is one of the core circuit blocks that interfaces with our real environment mostly determines overall performance of the systems. Therefore, we aim to design energy efficient but high-performance at the same time AFEs to communicate better with our real world.
  
 <details>
-<summary><b>A. Depth of Anesthesia Monitoring System</b></summary>
+<summary><b>A. Depth of Anesthesia Monitoring System</b></summary><br>
 
 ![DoA](/images/research_DoA.png)
 
-✅ ***What We Want to Solve?***
+✅ ***What We Want to Solve?*** <br>
 - During operation, surgeon should monitor two depth of anesthesia (DoA) indices, MAC and BIS depending on anesthetics
 - Therefore, they need two bulky devices are needed to determine DoA
 
-✅ ***How We Solve?***
+✅ ***How We Solve?*** <br>
 - We design high-precision neural recording AFE with large DC dynamic range for long-term EEG recording
 - We develop a novel DoA index by employing deep neural network (DNN)
 
-✅ ***Related Publications***
+✅ ***Related Publications*** <br>
 - A Real-Time Depth of Anesthesia Monitoring System Based on Deep Neural Network With Large EDO Tolerant EEG Analog Front-End in IEEE TBioCAS’20
 </details>
 
@@ -58,13 +58,7 @@ author_profile: true
 - A 4.6 μW, 133-VPP Common-Mode Interference-Tolerant Biopotential Amplifier for Two-Electrode Recording System in 110-nm CMOS in IEEE JSSC’26
 </details>
 
+## 2. High-Performance Time-of-Flight Depth Imagers
 
 
 
-
-### Principal Investigator
-* **Yongjae Park** (Ph.D. Student)
-
-### Students
-* Member 1
-* Member 2
