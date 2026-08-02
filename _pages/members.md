@@ -49,45 +49,55 @@ author_profile: true
 
 <!-- ================= 1. PROFESSOR TAB ================= -->
 <div id="professor" class="tab-content active">
+  <div class="member-card">
+    <!-- <img src="/images/professor.jpg" width="160" height="160" align="left" alt="Professor"> -->
+    <h2>Yongjae Park</h2>
+    <p><strong>Assistant Professor</strong><br>
+    @ Department of Semiconductor Systems Engineering, Inha University<br>
+    Principle Investigator of "Atelier of Microelectronics (AME)"<br>
+    <strong>Office:</strong> TBD<br>
+    <strong>Email:</strong> yong27.park@inha.ac.kr<br>
+    <strong>Research Interests:</strong>
+    <ul style="margin-top: 0;">
+      <li>Biomedical Wearable Sensors / Neural Interfaces / High-Precision Analog-Front-Ends</li>
+      <li>Time-of-Flight Imager</li>
+      <li>High-Speed Interfaces / Silicon-Photonics</li>
+    </ul>
+    <strong>Publications:</strong> <a href="https://scholar.google.com">[Google Scholar]</a></p>
 
-# Yongjae Park
+**test**
+- dlrpehlfRK?
+- wjdakffh?
 
-**Assistant Professor**<br>
-@ Department of Semiconductor Systems Engineering, Inha University<br>
-Principal Investigator of "Atelier of Microelectronics (AME)"<br>
-**Office:** TBD<br>
-**Email:** yong27.park@inha.ac.kr<br>
-**Research Interests:**
-- Biomedical Wearable Sensors / Neural Interfaces / High-Precision Analog Front-Ends
-- Time-of-Flight Imager
-- High-Speed Interfaces / Silicon Photonics<br>
+  <h3>Experiences</h3>
+  <ul>
+    <li>
+      <strong>Assistant Professor @ Inha University, Korea, 2026 - Present</strong><br>
+    </li>
+    <li><strong>Staff Engineer @ IP Development Team, Samsung Electronics, Korea, 2024 - 2026</strong><br>
+      &nbsp;&nbsp;– Electrical IC (EIC) Design for Silicon-Photonics<br>
+      &nbsp;&nbsp;– Custom Die to Die (D2D) Interface Design
+    </li>
+    <li><strong>Visiting Researcher @ University of California San Diego (UCSD), United States, 2022 - 2023</strong><br>
+      &nbsp;&nbsp;– Neural Recording and Stimulation SoC Design
+    </li>
+  </ul>
 
-**Publications:** [Google Scholar](https://scholar.google.com)
+  <h3>Education</h3>
+  <ul>
+    <li><strong>Ph.D.</strong> in Electrical Engineering, Ulsan National Institute of Science and Technology (UNIST), 2024</li>
+    <li><strong>B.S.</strong> in Electrical Engineering, Ulsan National Institute of Science and Technology (UNIST), 2018</li>
+  </ul>
 
-### Experiences
-
-- **Assistant Professor**, Inha University, Korea *(2026 – Present)*
-
-- **Staff Engineer**, IP Development Team, Samsung Electronics *(2024 – 2026)*
-  - Electrical IC (EIC) Design for Silicon Photonics
-  - Custom Die-to-Die (D2D) Interface Design
-
-- **Visiting Researcher**, University of California San Diego (UCSD), United States *(2022 – 2023)*
-  - Neural Recording and Stimulation SoC Design
-
-### Education
-
-- **Ph.D.**, Electrical Engineering, Ulsan National Institute of Science and Technology (UNIST), 2024
-- **B.S.**, Electrical Engineering, Ulsan National Institute of Science and Technology (UNIST), 2018
-
-### Activities
-
-- **Journal / Conference Reviewer**
-  - IEEE Journal of Solid-State Circuits (JSSC)
-  - IEEE Transactions on Biomedical Circuits and Systems (TBioCAS) *(Best Reviewer, 2026)*
-  - IEEE International Symposium on Circuits and Systems (ISCAS)
-  - IEEE Biomedical Circuits and Systems (BioCAS)
-
+  <h3>Activities</h3>
+  <ul>
+  <li><strong>Journals/Conferences Review</strong><br>
+      &nbsp;&nbsp;– IEEE Journal of Solid-State Circuits (JSSC)<br>
+      &nbsp;&nbsp;– IEEE Transactions on Biomedical Circuits and Systems (TBioCAS) *Selected as a Best Reviewer in 2026<br>
+      &nbsp;&nbsp;– IEEE International Symposium on Circuits and Systems (ISCAS)<br>
+      &nbsp;&nbsp;– IEEE Biomedical Circuits and Systems (BioCAS)<br>
+    </li>
+  </ul>
 </div>
 
 <!-- ================= 2. FAMILY TAB ================= -->
