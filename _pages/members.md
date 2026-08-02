@@ -52,15 +52,15 @@ author_profile: true
 
 # Yongjae Park
 
-**Assistant Professor**
-@ Department of Semiconductor Systems Engineering, Inha University
+**Assistant Professor**<br>
+@ Department of Semiconductor Systems Engineering, Inha University<br>
 Principal Investigator of "Atelier of Microelectronics (AME)"<br>
 **Office:** TBD<br>
 **Email:** yong27.park@inha.ac.kr<br>
 **Research Interests:**
 - Biomedical Wearable Sensors / Neural Interfaces / High-Precision Analog Front-Ends
 - Time-of-Flight Imager
-- High-Speed Interfaces / Silicon Photonics<br>
+- High-Speed Interfaces / Silicon Photonics
 **Publications:** [Google Scholar](https://scholar.google.com)
 
 ### Experiences
