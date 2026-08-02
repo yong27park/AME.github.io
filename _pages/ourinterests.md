@@ -26,8 +26,6 @@ author_profile: true
 
 </details>
 
-<br>
-
 <details>
 <summary><b>B. AFEs with High Input Impedance</b></summary>
 
