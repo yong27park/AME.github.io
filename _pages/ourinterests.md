@@ -123,11 +123,11 @@ author_profile: true
  Silicon photonics has emerged as a key technology for overcoming the bandwidth and energy limitations of conventional electrical interconnects in AI and high-performance computing (HPC) systems. Our research will focus on developing energy-efficient and high-speed electrical integrated circuits (EICs). In particular, since the performance of photonic devices is highly sensitive to temperature variations, we aim to develop intelligent temperature control units (TCUs) that compensate for large thermal drifts and stabilize photonic devices, enabling robust and reliable optical interconnects
 
 <details markdown="1">
-<summary><b>A. Indirect Time-of-Flight Imager with High Background Light Tolerance </b></summary>
+<summary><b>A. Temperature Stabilizer for Photonic Devices </b></summary>
 
 <br>
 
-![Blossom](/images/research_Si2.png)
+![Si](/images/research_Si2.png)
 
 ✅ ***What We Want to Solve?***
 - Large temperature variations during data transmission induce resonant wavelength shifts, leading to severe bit-error-rate (BER) degradation.
