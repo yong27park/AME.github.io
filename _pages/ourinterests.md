@@ -10,7 +10,11 @@ author_profile: true
  
  **A. Depth of Anesthesia Monitoring System**
 ![System Architecture](/images/research_DoA.png)
-✔️ *What We Want to Solve?*
+☑️ ***What We Want to Solve?***
+- During operation, surgeon should monitor two depth of anesthesia (DoA) indices, MAC and BIS depending on anesthetics
+   ∴ Two bulky devices are needed to determine DoA
+
+
 
 
 ### Principal Investigator
