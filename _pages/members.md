@@ -26,37 +26,28 @@ author_profile: true
   border-bottom: 3px solid #000;
 }
 .tab-content {
-  display: none;
-}
-.tab-content.active {
   display: block;
 }
 .member-card {
   margin-bottom: 25px;
 }
-.member-card img {
-  border-radius: 50%;
-  margin-right: 20px;
-  object-fit: cover;
-}
 </style>
 
 <!-- 탭 버튼 -->
 <div class="tab-container">
-  <button class="tab-button active" onclick="openTab(event, 'professor')">Professor</button>
+  <button class="tab-button active">Professor</button>
 </div>
 
 <!-- ================= 1. PROFESSOR TAB ================= -->
 <div id="professor" class="tab-content active">
   <div class="member-card">
-    <!-- <img src="/images/professor.jpg" width="160" height="160" align="left" alt="Professor"> -->
     <h2>Yongjae Park</h2>
     <p><strong>Assistant Professor</strong><br>
     - Department of Semiconductor Systems Engineering, Inha University<br>
     - Principal Investigator of "Atelier of Microelectronics (AME)"<br>
     <strong>Office:</strong> TBD<br>
     <strong>Email:</strong> yong27.park@inha.ac.kr<br>
-    <strong>Publications:</strong> <a href="https://scholar.google.com">[Google Scholar]</a>
+    <strong>Publications:</strong> [<a href="https://scholar.google.com" target="_blank">Google Scholar</a>]
     </p>
 
     <h3><i>Education</i></h3>
@@ -67,15 +58,13 @@ author_profile: true
       
     <h3><i>Experiences</i></h3>
     <ul>
-      <li>
-        <strong>Assistant Professor @ Inha University, Korea, 2026 - Present</strong>
+      <li><strong>Assistant Professor</strong> @ Inha University, Korea, 2026 - Present</li>
+      <li><strong>Staff Engineer</strong> @ IP Development Team, Samsung Electronics, Korea, 2024 - 2026<br>
+        &nbsp;&nbsp;&ndash; Electrical IC (EIC) Design for Silicon-Photonics<br>
+        &nbsp;&nbsp;&ndash; Custom Die to Die (D2D) Interface Design
       </li>
-      <li><strong>Staff Engineer @ IP Development Team, Samsung Electronics, Korea, 2024 - 2026</strong><br>
-        &nbsp;&nbsp;– Electrical IC (EIC) Design for Silicon-Photonics<br>
-        &nbsp;&nbsp;– Custom Die to Die (D2D) Interface Design
-      </li>
-      <li><strong>Visiting Researcher @ University of California San Diego (UCSD), United States, 2022 - 2023</strong><br>
-        &nbsp;&nbsp;– Neural Recording and Stimulation SoC Design
+      <li><strong>Visiting Researcher</strong> @ University of California San Diego (UCSD), United States, 2022 - 2023<br>
+        &nbsp;&nbsp;&ndash; Neural Recording and Stimulation SoC Design
       </li>
     </ul>
 
@@ -89,20 +78,20 @@ author_profile: true
     <h3><i>Activities</i></h3>
     <ul>
       <li><strong>Journals/Conferences Review</strong><br>
-        &nbsp;&nbsp;– <i>IEEE Journal of Solid-State Circuits (JSSC)</i><br>
-        &nbsp;&nbsp;– <i>IEEE Transactions on Biomedical Circuits and Systems (TBioCAS)</i><br>
-        &nbsp;&nbsp;– <i>IEEE International Symposium on Circuits and Systems (ISCAS)</i><br>
-        &nbsp;&nbsp;– <i>IEEE Biomedical Circuits and Systems (BioCAS)</i><br>
+        &nbsp;&nbsp;&ndash; <i>IEEE Journal of Solid-State Circuits (JSSC)</i><br>
+        &nbsp;&nbsp;&ndash; <i>IEEE Transactions on Biomedical Circuits and Systems (TBioCAS)</i><br>
+        &nbsp;&nbsp;&ndash; <i>IEEE International Symposium on Circuits and Systems (ISCAS)</i><br>
+        &nbsp;&nbsp;&ndash; <i>IEEE Biomedical Circuits and Systems (BioCAS)</i>
       </li>
     </ul>
 
     <h3><i>Honors/Grants</i></h3>
     <ul>
       <li>2023-2024 Pre-Doctoral Achievement Award<br>
-        &nbsp;&nbsp;<i>Granted by IEEE Solid-State Circuits Society (SSCS)</i> [<a href="https://sscs.ieee.org/membership/awards/predoctoral-achievement-award/">IEEE SSCS</a>]<br>
+        &nbsp;&nbsp;<i>Granted by IEEE Solid-State Circuits Society (SSCS)</i> [<a href="https://sscs.ieee.org/membership/awards/predoctoral-achievement-award/" target="_blank">IEEE SSCS</a>]
       </li>
       <li>2026 Best Reviewer<br>
-        &nbsp;&nbsp;<i>IEEE Transactions on Biomedical Circuits and Systems (TBioCAS)</i> [<a href="https://ieee-cas.org/post/news/ieee-cass-announces-2026-publications-best-associate-editor-and-best-reviewer-award">IEEE CAS</a>]<br>
+        &nbsp;&nbsp;<i>IEEE Transactions on Biomedical Circuits and Systems (TBioCAS)</i> [<a href="https://ieee-cas.org/post/news/ieee-cass-announces-2026-publications-best-associate-editor-and-best-reviewer-award" target="_blank">IEEE CAS</a>]
       </li>
     </ul>
   </div>
