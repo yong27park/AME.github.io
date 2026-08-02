@@ -1,8 +1,46 @@
-<!-- ================= 1. PROFESSOR TAB ================= -->
-<div id="professor" class="tab-content active">
-  <div class="member-card">
+---
+layout: archive
+title: "Members"
+permalink: /members/
+author_profile: true
+---
 
-    <!-- <img src="/images/professor.jpg" width="160" height="160" align="left" alt="Professor"> -->
+<style>
+.tab-container {
+  display: flex;
+  border-bottom: 2px solid #e0e0e0;
+  margin-bottom: 25px;
+}
+.tab-button {
+  padding: 10px 25px;
+  cursor: pointer;
+  border: none;
+  background: none;
+  font-size: 1.15rem;
+  font-weight: bold;
+  color: #666;
+  transition: all 0.2s ease;
+}
+.tab-button.active {
+  color: #000;
+  border-bottom: 3px solid #000;
+}
+.tab-content {
+  display: block;
+}
+.member-card {
+  margin-bottom: 25px;
+}
+</style>
+
+<!-- Tab -->
+<div class="tab-container">
+  <button class="tab-button active">Professor</button>
+</div>
+
+<div id="professor" class="tab-content">
+
+  <div class="member-card">
 
     <h2>Yongjae Park</h2>
 
@@ -18,8 +56,8 @@
 
     <h3><i>Education</i></h3>
     <ul>
-      <li><strong>Ph.D.</strong> in Electrical Engineering, Ulsan National Institute of Science and Technology (UNIST), 2024</li>
-      <li><strong>B.S.</strong> in Electrical Engineering, Ulsan National Institute of Science and Technology (UNIST), 2018</li>
+      <li><strong>Ph.D.</strong>, Electrical Engineering, Ulsan National Institute of Science and Technology (UNIST), 2024</li>
+      <li><strong>B.S.</strong>, Electrical Engineering, Ulsan National Institute of Science and Technology (UNIST), 2018</li>
     </ul>
 
     <h3><i>Professional Experience</i></h3>
@@ -42,9 +80,12 @@
 
     <h3><i>Research Interests</i></h3>
     <ul>
-      <li>Biomedical Wearable Sensors / Neural Interfaces / High-Precision Analog Front-Ends</li>
+      <li>Biomedical Wearable Sensors</li>
+      <li>Neural Interfaces</li>
+      <li>High-Precision Analog Front-Ends</li>
       <li>Time-of-Flight Imaging Sensors</li>
-      <li>High-Speed Interfaces / Silicon Photonics</li>
+      <li>High-Speed Interfaces</li>
+      <li>Silicon Photonics</li>
     </ul>
 
     <h3><i>Professional Activities</i></h3>
@@ -62,18 +103,17 @@
     <ul>
       <li>
         <strong>IEEE SSCS Pre-Doctoral Achievement Award (2023–2024)</strong><br>
-        &nbsp;&nbsp;<i>Granted by the IEEE Solid-State Circuits Society (SSCS)</i>
-        [<a href="https://sscs.ieee.org/membership/awards/predoctoral-achievement-award/" target="_blank">Link</a>]
+        &nbsp;&nbsp;Granted by the IEEE Solid-State Circuits Society (SSCS)
       </li>
 
       <li>
         <strong>IEEE TBioCAS Best Reviewer Award (2026)</strong><br>
-        &nbsp;&nbsp;<i>Granted by the IEEE Circuits and Systems Society (CASS)</i>
-        [<a href="https://ieee-cas.org/post/news/ieee-cass-announces-2026-publications-best-associate-editor-and-best-reviewer-award" target="_blank">Link</a>]
+        &nbsp;&nbsp;Granted by the IEEE Circuits and Systems Society (CASS)
       </li>
     </ul>
 
   </div>
+
 </div>
 
 
