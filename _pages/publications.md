@@ -103,5 +103,17 @@ author_profile: true
   <u>Yongjae Park</u>, Ji-Hyoung Cha, Su-Hyun Han, Jee-Ho Park, and Seong-Jin Kim  
   *IEEE Symposium on VLSI Technology and Circuits (SOVC)*, 2021. (One of the top 3 conferences on Circuits and Systems)<br> [[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/9492508)
 
-## Patents
+## Grants/Patents
 ---
+1.**2023-2024 IEEE Solid-State Circuits Society (SSCS) Pre-Doctoral Achievement Award**
+1.**2026 IEEE Transactions on Biomedical Circuits and Systems (TBioCAS) Best Reveiwers**
+[[IEEE CAS]](https://https://ieee-cas.org/post/news/ieee-cass-announces-2026-publications-best-associate-editor-and-best-reviewer-award)
+---
+1.**KR10-2024-0011778 (Granted): 생체 신호 측정 장치, Mar. 2026.**
+ <u>Yongjae Park</u>, Seong-Jin Kim
+
+1.**KR10-2022-0038797 (Granted): 듀얼 포지티브 피드백을 구비한 생체 신호 처리 장치, Jan. 2024.**
+ <u>Yongjae Park</u>, Seong-Jin Kim 
+
+1.**KR10-2020-0077375 (Granted): DC 오프셋 상쇄를 위한 뇌전도 신호 증폭 장치, Mar. 2022.**
+ <u>Yongjae Park</u>, Seong-Jin Kim 
