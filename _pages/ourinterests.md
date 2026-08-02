@@ -8,7 +8,7 @@ author_profile: true
 ## 1. High-Precision Sensor Interfaces
  We are deeply interested in developing high-precision sensor interfaces systems, especially focusing on biomedical wearable sensors, and neural interfaces. An analog-front-ends (AFEs) which is one of the core circuit blocks that interfaces with our real environment mostly determines overall performance of the systems. Therefore, we aim to design energy efficient but high-performance at the same time AFEs to communicate better with our real world.
  
-<details>
+<details markdown="1">
 <summary><b>A. Depth of Anesthesia Monitoring System</b></summary>
 
 <br>
@@ -30,7 +30,7 @@ author_profile: true
 
 <br>
 
-<details>
+<details markdown="1">
 <summary><b>B. AFEs with High Input Impedance</b></summary>
 
 <br>
@@ -52,7 +52,7 @@ author_profile: true
 
 <br>
 
-<details>
+<details markdown="1">
 <summary><b>C. Two-Electrode Bio-potential Recording System</b></summary>
 
 <br>
