@@ -39,6 +39,14 @@ author_profile: true
   margin-right: 20px;
   object-fit: cover;
 }
+
+h3 {
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 4px;
+  margin-top: 25px;
+  margin-bottom: 12px;
+}
+  
 </style>
 
 <!-- 탭 버튼 -->
