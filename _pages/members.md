@@ -113,7 +113,6 @@ author_profile: true
       &nbsp;&nbsp;<i>IEEE Transactions on Biomedical Circuits and Systems (TBioCAS)</i> [<a href="https://ieee-cas.org/post/news/ieee-cass-announces-2026-publications-best-associate-editor-and-best-reviewer-award">IEEE CAS</a>]<br>
     </li>
   </ul>
-  
 </div>
 </div>
 
