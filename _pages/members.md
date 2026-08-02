@@ -58,11 +58,9 @@ author_profile: true
     <strong>Office:</strong> TBD<br>
     <strong>Email:</strong> yong27.park@inha.ac.kr<br>
     <strong>Research Interests:</strong>
-    <ul>
     <li>Biomedical Wearable Sensors / Neural Interfaces / High-Precision Analog-Front-Ends</li>
     <li>Time-of-Flight Imager</li>
     <li>High-Speed Interfaces / Silicon-Photonics</li>
-    </ul>
     <strong>Publications:</strong> <a href="https://scholar.google.com">[Google Scholar]</a></p><br>
 
   <h3>Experiences</h3>
