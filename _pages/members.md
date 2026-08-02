@@ -65,10 +65,6 @@ author_profile: true
     </ul>
     <strong>Publications:</strong> <a href="https://scholar.google.com">[Google Scholar]</a></p>
 
-**test**
-- dlrpehlfRK?
-- wjdakffh?
-
   <h3>Experiences</h3>
   <ul>
     <li>
