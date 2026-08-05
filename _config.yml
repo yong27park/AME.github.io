@@ -143,7 +143,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "/images/Home_2.png"
+og_image                 : "/images/Home_3.png"
 og_description           : "Welcome to Atelier of Microelectronics (AME)" # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
