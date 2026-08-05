@@ -5,6 +5,8 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+header:
+  og_image: "/images/Home_2.png"
 ---
 
 
