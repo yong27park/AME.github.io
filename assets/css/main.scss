@@ -42,25 +42,23 @@
 details > summary {
   list-style: none !important;
   cursor: pointer;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+  display: inline-block; /* 양끝 정렬을 해제하고 글자 흐름대로 정렬 */
 }
 
 details > summary::-webkit-details-marker {
   display: none !important;
 }
 
-/* 닫혀 있을 때 오른쪽 끝에 [+] 표시 */
+/* 닫혀 있을 때 글자 바로 뒤에 [+] 표시 */
 details > summary::after {
   content: " [+]";
   font-weight: bold;
-  margin-left: 6px;
+  margin-left: 4px;
 }
 
-/* 펼쳐졌을 때 오른쪽 끝에 [-] 표시 */
+/* 펼쳐졌을 때 글자 바로 뒤에 [-] 표시 */
 details[open] > summary::after {
   content: " [-]";
   font-weight: bold;
-  margin-left: 6px;
+  margin-left: 4px;
 }
