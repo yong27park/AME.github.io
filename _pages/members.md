@@ -62,7 +62,7 @@ author_profile: true
     <p><strong>Assistant Professor</strong><br>
     - Department of Semiconductor Systems Engineering, Inha University<br>
     - Principal Investigator of "Atelier of Microelectronics (AME)"<br>
-    <strong>Office:</strong> TBD<br>
+    <strong>Office:</strong> 하이테크 318<br>
     <strong>Email:</strong> yong27.park@inha.ac.kr<br>
     <strong>Publications:</strong> <a href="https://scholar.google.com">[Google Scholar]</a>
     </p>
