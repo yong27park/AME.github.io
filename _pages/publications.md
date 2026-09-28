@@ -62,7 +62,7 @@ author_profile: true
 ---
 1. **A 2.8-NEF 130-mV/140-V DM/CM Artifact-Tolerant Biopotential Amplifier for Two-Electrode Recording System Using Signal Folding**  
   Yeong-Jin Mo, <u>Yongjae Park</u>, Su-Hyun Park, Minsaeng Kang, and Seong-Jin Kim<br> 
-  *IEEE European Solid-State Electronics Research Conference (ESSERC)*, 2026. (One of the top 3 conferences on Circuits and Systems)<br>
+  *IEEE European Solid-State Electronics Research Conference (ESSERC)*, 2026.<br>
 
 1. **A 4.6μW 3.3-NEF Biopotential Amplifier with 133VPP Common-Mode Interference Tolerance and 102dB Total Common-Mode Rejection Ratio for Two-Electrode Recording System**  
   <u>Yongjae Park</u>, Yeong-Jin Mo, Jeong-Hoon Kim, Gert Cauwenberghs, and Seong-Jin Kim<br> 
