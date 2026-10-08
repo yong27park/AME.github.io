@@ -26,6 +26,7 @@ Our mission at the Atelier of Microelectronics (AME) is as follows:
 3. Grow together through open exploration and close collaboration.
 
 Recent News
+===
 
 <ul>
   {% for post in site.posts limit:5 %}
