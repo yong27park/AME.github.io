@@ -25,3 +25,14 @@ Our mission at the Atelier of Microelectronics (AME) is as follows:
 2. Identify fundamental problems and solve them by focusing on key insights.
 3. Grow together through open exploration and close collaboration.
 
+Recent News
+
+<ul>
+  {% for post in site.posts limit:5 %}
+    <li>
+      <strong>{{ post.date | date: "%Y-%m-%d" }}</strong> - 
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
