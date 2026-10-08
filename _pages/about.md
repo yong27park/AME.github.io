@@ -74,8 +74,6 @@ Our mission at the Atelier of Microelectronics (AME) is as follows:
 Recent News
 ===
 
-## Recent News
-
 <ul class="news-list">
   {% for post in site.posts limit:5 %}
     <li class="news-item">
