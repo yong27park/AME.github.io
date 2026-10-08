@@ -9,6 +9,52 @@ header:
   og_image: "/images/Home_3.png"
 ---
 
+<style>
+  .news-list {
+    list-style: none;
+    padding-left: 0;
+    margin-top: 1.5rem;
+  }
+  .news-item {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 1.2rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #f2f2f2;
+  }
+  .news-date {
+    background-color: #2b2b2b;
+    color: #ffffff;
+    font-size: 0.8rem;
+    font-weight: 600;
+    padding: 0.25rem 0.6rem;
+    border-radius: 4px;
+    white-space: nowrap;
+    margin-right: 1rem;
+    margin-top: 0.2rem;
+  }
+  .news-content {
+    flex: 1;
+  }
+  .news-title {
+    font-size: 1.05rem;
+    font-weight: bold;
+    margin: 0 0 0.3rem 0;
+  }
+  .news-title a {
+    color: #111;
+    text-decoration: none;
+  }
+  .news-title a:hover {
+    text-decoration: underline;
+  }
+  .news-excerpt {
+    font-size: 0.9rem;
+    color: #555;
+    margin: 0;
+    line-height: 1.4;
+  }
+</style>
 
 About Us - Atelier of Microelectronics (AME)
 ===
