@@ -74,11 +74,24 @@ Our mission at the Atelier of Microelectronics (AME) is as follows:
 Recent News
 ===
 
-<ul>
+## Recent News
+
+<ul class="news-list">
   {% for post in site.posts limit:5 %}
-    <li>
-      <strong>{{ post.date | date: "%Y-%m-%d" }}</strong> - 
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    <li class="news-item">
+      <span class="news-date">{{ post.date | date: "%b %d, %Y" }}</span>
+      <div class="news-content">
+        <div class="news-title">
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </div>
+        <div class="news-excerpt">
+          {% if post.excerpt %}
+            {{ post.excerpt | strip_html | truncatewords: 25 }}
+          {% else %}
+            {{ post.content | strip_html | truncatewords: 25 }}
+          {% endif %}
+        </div>
+      </div>
     </li>
   {% endfor %}
 </ul>
