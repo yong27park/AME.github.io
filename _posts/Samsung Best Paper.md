@@ -3,10 +3,10 @@ title: "Our Collaborative Project Received the Best Paper Award from Samsung Ele
 date: 2026-08-01
 categories:
   - news
-excerpt: "Our collaborative project was honored with the Best Paper Award from Samsung Electronics Device Solutions (DS)"
+excerpt: "Our collaborative project on bio-medical wearable sensor was honored with the Best Paper Award from Samsung Electronics Device Solutions (DS)"
 ---
 
-Our collaborative project was honored with the Best Paper Award from Samsung Electronics Device Solutions (DS).
+Our collaborative project on bio-medical wearable sensor was honored with the Best Paper Award from Samsung Electronics Device Solutions (DS).
 <br><br>
 Paper title: “A 2.8-NEF 130-mV/140-V DM/CM Artifact-Tolerant Biopotential Amplifier for Two-Electrode Recording System Using Signal Folding”
 Recipients: Young-Jin Mo, Yongjae Park, Su-Hyun Park, Minsaeng Kang, and Seong-Jin Kim
